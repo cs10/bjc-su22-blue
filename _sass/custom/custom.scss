@@ -8,6 +8,37 @@
 @import 'staffer';
 
 // Overrides
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+     width: 264px;
+  }
+}
+
+@media (min-width: 50rem) {
+  .main {
+      position: relative;
+      max-width: 100% !important;
+      margin-left: 264px;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .main {
+    margin-left: 264px
+  }
+}
+
+.main-content-wrap {
+  max-width: calc(100% - 3rem) !important;
+  margin: auto;
+  }
+
+
+
+
+
+
 a abbr[title] {
   border-bottom: none;
 }
@@ -57,7 +88,7 @@ summary {
 }
 
 .main-content-wrap {
-  max-width: $content-width;
+  // max-width: $content-width;
   margin: auto;
 }
 
