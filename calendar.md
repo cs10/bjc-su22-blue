@@ -65,9 +65,9 @@
     <tr>
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td>RQ1: Learning to Code</td> </td> <!-- Readings -->
       <td>2. Build Your Own Blocks</td> <!-- Lab -->
-      <td>RQ1: Learning to Code</td> <!-- Discussion -->
+      <td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
