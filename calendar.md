@@ -23,15 +23,15 @@
     </tr>
     <tr>
       <th>Tue 1/18</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
-      <td>No Class</td> <!-- Readings -->
-      <td>No Class</td> <!-- Lab -->
-      <td>No Class</td> <!-- Discussion -->
-      <td>No Class</td> <!-- Assignment -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td>release HW0: Setup (due Sat 1/22)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 1/19 </th> <!-- Date -->
-      <td>Welcome to CS10!</td> <!-- Lecture -->
+      <td>1. Welcome to CS10 & Abstraction</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -41,7 +41,7 @@
       <th>Thur 1/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Welcome to Snap!</td> <!-- Lab -->
+      <td>1. Welcome to Snap!</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -50,29 +50,29 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>Welcome to CS10!</td> <!-- Discussion -->
-      <td>HW0</td> <!-- Assignment -->
+      <td>1. Snap! Scavenger Hunt</td> <!-- Discussion -->
+      <td>HW0 due Sat 1/22</td> <!-- Assignment -->
     </tr>
     <tr>
       <td rowspan=5>2</td> <!-- WEEK 2 -->
       <th>Mon 1/24</th> <!-- Date -->
-      <td>Functions</td> <!-- Lecture -->
+      <td>2. Functions</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>HW1: Mastermind released</td> <!-- Assignment -->
+      <td>release HW1: Mastermind</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>No Class</td> <!-- Readings -->
-      <td>Build Your Own Blocks</td> <!-- Lab -->
+      <td></td> <!-- Readings -->
+      <td>2. Build Your Own Blocks</td> <!-- Lab -->
       <td>RQ1: Learning to Code</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 1/26 </th> <!-- Date -->
-      <td>Numbers and Abstraction</td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -82,7 +82,7 @@
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Conditionals and Reporters & Abstraction</td> <!-- Lab -->
+      <td>3. Conditionals and Reporters & Abstraction</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -91,7 +91,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
+      <td>2. Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
   </tbody>
