@@ -6,7 +6,7 @@ nav_exclude: true
 
 # **CS 10: The Beauty and Joy of Computing**
 {: .mb-2 }
-UC Berkeley, Spring 20222
+UC Berkeley, Spring 2022
 {: .mb-2 .fs-6 .text-grey-dk-100 }
 
 {{ site.description }}
