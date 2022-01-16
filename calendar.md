@@ -55,44 +55,44 @@
     </tr>
     <tr>
       <td rowspan=5>2</td> <!-- WEEK 2 -->
-      <th>Mon 1/23</th> <!-- Date -->
-      <td>Lecture 2: Functions</td> <!-- Lecture -->
+      <th>Mon 1/24</th> <!-- Date -->
+      <td>Functions</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>No Class</td> <!-- Lab -->
-      <td>No Class</td> <!-- Discussion -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
       <td>HW1: Mastermind released</td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 1/24</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
+      <th>Tue 1/25</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
       <td>No Class</td> <!-- Readings -->
-      <td>No Class</td> <!-- Lab -->
-      <td>No Class</td> <!-- Discussion -->
-      <td>No Class</td> <!-- Assignment -->
+      <td>Build Your Own Blocks</td> <!-- Lab -->
+      <td>RQ1: Learning to Code</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 1/25 </th> <!-- Date -->
-      <td>Welcome to CS10!</td> <!-- Lecture -->
+      <th>Wed 1/26 </th> <!-- Date -->
+      <td>Numbers and Abstraction</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 1/26</th> <!-- Date -->
+      <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Welcome to Snap!</td> <!-- Lab -->
+      <td>Conditionals and Reporters & Abstraction</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 1/27</th> <!-- Date -->
+      <th>Fri 1/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>Welcome to CS10!</td> <!-- Discussion -->
-      <td>HW0</td> <!-- Assignment -->
+      <td>Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
     </tr>
   </tbody>
 </table>
