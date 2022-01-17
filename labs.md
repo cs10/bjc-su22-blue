@@ -1,17 +1,32 @@
 ---
 layout: default
-title: Lab
+title: Lab Check-Offs
 description: A list of all labs and associated check-off questions.
+nav_order: 3
+lab_course: cs10_fa21.html
+labs:
+  - lab_name: Welcome to Snap!
+    topic_file: berkeley_bjc/intro_pair/1-introduction.topic
+    quiestions:
+      - No checkoff needed for Lab 1!
 ---
 
 # Lab Check-Offs
 
-On this page, you will find a list of check-off questions for each lab.  
+On this page, you will find a list of check-off questions for each lab.
 
-
+{% for lab in page.labs %}
+<details>
+  <summary>
+  </summary>
+  <ul>
+    {% for question in lab.questions %}
+      <li>{}
+    {% end %}
+  </ul>
+</details>
+{% end %}
 **Lab 1**{: .label .label-lab } [Welcome to Snap!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-
-- No checkoff needed for Lab 1!
 
 
 **Lab 2**{: .label .label-lab } [Build Your Own Blocks](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment)

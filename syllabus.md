@@ -18,18 +18,18 @@ description: >-
 
 ## Welcome
 
-Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Fall for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap!, but will transition into Python once you have learned the basic concepts of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
+Welcome to CS10: The Beauty and Joy of Computing! We’re really excited to have you on board with us this Spring for a gentle but thorough introduction to computer science. Our course will start out in the blocks-based language Snap<em>!</em>, but will transition into Python once you have learned some fundementals of programming. By the end of the class, we hope you walk away with a deeper understanding of the ideas that have come to define computer science, the ability to build your own programs, and the confidence to apply these skills in whichever field you choose to pursue.
 
 ## Platforms
 
-This Fall, CS10 will be be primarily in person, but will also be delivered in a hybrid format for those of you who cannot attend in person. We will make use of the following platforms:
+This Spring, CS10 will be be primarily in person, but we will also have some activites held online, including the entirety of the first two weeks.:
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org.
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest). What’s more, by asking and answering questions, you also get a chance to earn some extra EPA points (more on that later)!
 * **Gradescope**: This is where you will submit assignments and reading quizzes.
-* **Prairie Learn**: This is where you will take exams (even in-person students).
+* **bCourses:** bCourses will be the place for your Reading Quizzes, and will contain all of your other grades.
 * **Zoom**: Live sessions, discussion sections will be held via Zoom.
-* **Discord**: Online lab sections and office hours will be held via Discord.
+* **Ohyay**: Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
 
 ## Primary Course Components
 
@@ -47,25 +47,25 @@ This Fall, CS10 will be be primarily in person, but will also be delivered in a 
 
 ## Grading Breakdown
 
-| Assignment             |  Points                           |    
-| :----:                 |    :----:                         |
-| Quest                  | 20                                |
-| Midterm                | 80                                |
-| Final                  | 100                               |
-| Project 1: Wordmatch   | 10                                |
-| Project 2: Mastermind  | 20                                |
-| Project 3: 2048        | 30                                |
-| Project 4: Explore     | 40                                |
-| Project 5: Pytris      | 50                                |
-| Project 6: Your Choice | 75                                |
-| Labs                   | 40                                |
-| Reading Quizzes        | 10                                |
-| Weekly Surveys         | 10                                |
-| Post Lecture Questions | 15 (Free Points!)                 |
+| Assignment                     |  Points  |
+| :----:                         |  :----:  |
+| Quest                          | 20       |
+| Midterm                        | 80       |
+| Final                          | 100      |
+| Homework 0: Introduce Yourself | 10       |
+| Homework 1: Wordmatch          | 10       |
+| Homework 2: Mastermind         | 20       |
+| Homework 3: 2048               | 30       |
+| Project 4: Explore             | 40       |
+| Project 5: Pytris              | 45       |
+| Project 6: Your Choice         | 75       |
+| Labs                           | 40       |
+| Reading Quizzes                | 10       |
+| Attendance & Lecture Questions | 10       |
 
 **Total: 500 Points**
 
-| Letter Grade       |    Range                          |   
+| Letter Grade       |    Range                          |
 | :----:             |    :----:                         |
 | A+:                |    485-500                        |
 | A:                 |    460-484                        |
@@ -87,7 +87,7 @@ You will report your own attendance on the weekly surveys, i.e. pacing points wi
 ## Pro-Student Grading Policies
 
 * **Absolute-Clobber Policy**: If either your midterm or final exam score is higher than your quest score, we will replace your quest score with the maximum of your absolute midterm and final exam scores. If your final exam score is higher than your midterm score, we will replace your midterm score with your final exam score. For example, if you receive a 70% on the midterm but an 85% on the final, at the end of the semester your midterm score will also be upgraded to 85%. For reference: Clobber policies in later CS courses tend to be based on your performance relative to the mean. However in CS10, it is based on your absolute score. In short, your quest score will be equal to max(quest, midterm, final) and your midterm score will be equal to max(midterm, final).
-* **Slip Days**: Each student will receive 6 slip days, to be used for _**projects**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of two slip days per project.**
+* **Slip Days**: Each student will receive 8 slip days, to be used for _**projects**_. Each slip day allows you to extend the deadline period by one day with no penalty. For example, if a project is due Friday at 11:59 PM PT, you may turn it in without penalty up until Saturday at 11:59 PM PT by using one slip day. **Note: You can use a maximum of three slip days per project.**
 * **Late Submissions**: Late submissions for projects will be handled on a case-by-case basis. If you are out of slip days for a project but cannot make a deadline, please contact your check-in TA **prior** to the due date to figure out an extension. If you do not reach out to anyone in advance, we reserve the right to mark the submission down by 10% for each day that it is late.
 
 ## Exam Policy
@@ -117,7 +117,7 @@ Coding is difficult to learn, and when you do any of the above, you rob yourself
 **What constitutes collaboration?**
 * **Asking instead of telling**. If you’re working with your friends and one of them is stuck on a part of an assignment, try to ask them guiding questions instead of telling them the answer.
 * **Keeping things conceptual!** It’s more beneficial to your learning if you come up with a solution yourself, rather than having it told to you. This also applies if you are helping someone else.
-We highly encourage collaboration, so let’s define what that means. Discussing approaches to problems is fine (in fact, we actively encourage it), as long as you eventually arrive at a good enough understanding of the problem that you are able to code the solution completely by yourself. You should not allow concerns about cheating to get in the way of discussing the class material with your classmates. It is okay if you have received some help with ideas along the way (but not a fully worked out solution).\*  
+We highly encourage collaboration, so let’s define what that means. Discussing approaches to problems is fine (in fact, we actively encourage it), as long as you eventually arrive at a good enough understanding of the problem that you are able to code the solution completely by yourself. You should not allow concerns about cheating to get in the way of discussing the class material with your classmates. It is okay if you have received some help with ideas along the way (but not a fully worked out solution).\*
 \*This policy was adapted from Professor Alistair Sinclair’s policy for CS 172.
 
 **What happens if you cheat?**
@@ -130,4 +130,4 @@ We will set up a meeting with you to discuss the situation and determine the con
 We recognize that computer science is a demographically skewed field in the United States, and that even at Berkeley, minoritized students can find themselves feeling alone. It is our goal in this course to deliver an equitable learning experience for everyone involved. Concretely, this means a few things:
 - In addition to teaching the technical skills necessary for programming, we will also teach the social implications of computer science. In doing so, we will directly address the contributions of underrepresented groups to the field, which are often overlooked.
 - We will do our absolute best to show you that while bias, discrimination, and judgment still exist, they should not stand in the way of you learning computer science. While acknowledging the struggles many students may face, we also hope to show that computer science is a field anyone can be successful in (in other words, there is no innate "talent" or "trait" required to understand computer science). Of course, different people have different opportunities, but one of the goals of CS10 is to equalize the playing field.
-- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let Josh know immediately via email or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://docs.google.com/forms/d/e/1FAIpQLSc4NYHdUJ8IzYA1SoiTinWBybGWkj0mfmdnHAeygAxkZajelQ/viewform).
+- Discrimination or disrespect on the basis of race, ethnicity, religion, socioeconomic status, ability, gender, or sexual orientation will be tolerated under no circumstances. Should someone make you feel uncomfortable or disrespected in any way, please let Josh know immediately via email or by coming to office hours. You can also fill out the [EECS Incident Reporting Form](https://eecs.link/climate).
