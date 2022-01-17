@@ -192,7 +192,7 @@
     <tr>
       <th>Tue 2/15</th> <!-- Date -->
       <td>QUEST</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td>RQ 3:</td> <!-- Readings -->
       <td>7. Testing + Project 1</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW 2 Party; HW 2 due</td> <!-- Assignment -->
