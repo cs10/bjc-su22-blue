@@ -8,12 +8,12 @@ labs:
   - lab_name: Welcome to Snap!
     lab_no: 1
     topic_file: berkeley_bjc/intro_pair/1-introduction.topic
-    quiestions:
+    questions:
       - No checkoff needed for Lab 1!
   - lab_name: Build Your Own Blocks
     lab_no: 2
     topic_file: berkeley_bjc/intro_pair/2-loops-variables.topic
-    quiestions:
+    questions:
       - Show your Field of Flowers.
       - Why should you Build Your Own Blocks? Give a reason that someone may create a custom block.
       - What are some different ways to achieve repetition? Name at least 2.
@@ -22,67 +22,67 @@ labs:
   - lab_name:
     lab_no: 3
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 4
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 5
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 6
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 7
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 8
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 9
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 10
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 11
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 12
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 13
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 14
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 15
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 16
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 17
     topic_file:
-    quiestions:
+    questions:
   - lab_name:
     lab_no: 18
     topic_file:
-    quiestions:
+    questions:
 ---
 
 # Lab Check-Offs
@@ -90,19 +90,23 @@ labs:
 On this page, you will find a list of check-off questions for each lab.
 
 {% for lab in page.labs %}
-<details>
-  <a name="{% lab.lab_no %}">
+<details open>
+  <a name="lab-{{ lab.lab_no }}"></a>
   <summary>
-    <div class="label label-lab">Lab {% lab.lab_no %}</div>
-    <a href="https://cs10.org/bjc-r/topic/topic.html?topic={% lab.topic_file |urlencode %}&course={% page.course}&novideo&noreading&noassignment" target="_bank">{% lab.title %}</a>
+    <div class="label label-lab"><strong>Lab {{ lab.lab_no }}</strong></div>
+    {{ lab.lab_name }}
   </summary>
+  <br>
+  <a href="https://cs10.org/bjc-r/topic/topic.html?topic={{ lab.topic_file |urlencode }}&course={{ page.course }}&novideo&noreading&noassignment" target="_bank">
+  View Lab {{ lab.lab_no }}
+  </a>
   <ul>
     {% for question in lab.questions %}
-      <li>{% question %}</li>
-    {% end %}
+      <li>{{ question }}</li>
+    {% endfor %}
   </ul>
 </details>
-{% end %}
+{% endfor %}
 
 **Lab 3**{: .label .label-lab } [Conditionals, Reporters & Testing](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 
