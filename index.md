@@ -23,6 +23,7 @@ UC Berkeley, Spring 2022
 **Instructor:** Michael Ball
 {: .fs-4 }
 
+<!-- TODO: put alonzo on the right handside -->
 {% if site.announcements %}
   {{ site.announcements.last }}
   [Previous Announcements](announcements.md){: .btn .btn-outline .fs-3 }

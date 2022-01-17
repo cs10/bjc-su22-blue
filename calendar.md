@@ -97,7 +97,7 @@
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>2</td>
+      <td rowspan=5>3</td>
       <th>Mon 1/31</th> <!-- Date -->
       <td>4. Lists and Scoping</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
@@ -139,7 +139,7 @@
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>2</td>
+      <td rowspan=5>4</td>
       <th>Mon 2/7</th> <!-- Date -->
       <td>6. Algorithmic Complexity</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
@@ -181,7 +181,7 @@
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
     <tr>
-      <td rowspan=5>2</td>
+      <td rowspan=5>5</td>
       <th>Mon 2/14</th> <!-- Date -->
       <td>8: Testing + 2048</td> <!-- Lecture -->
       <td></td> <!-- Readings -->

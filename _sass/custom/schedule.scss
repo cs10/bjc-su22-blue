@@ -1,12 +1,11 @@
 .schedule-table {
   th, td {
     min-width: 0px; // Override just-the-docs
+    border: 1px solid #3B7EA1;
   }
 
-  thead > th {
-    // TODO: Use Berkeley Colors?
-    background-color: darkblue;
-    color: white;
+  thead > tr > th {
+    background-color: #DDD5C7;
   }
 
   tr.today {
