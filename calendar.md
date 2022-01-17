@@ -1,8 +1,8 @@
 
-<table class="table table-bordered">
+<table class="table table-bordered schedule-table">
   <thead>
     <tr>
-      <th class="center" width="5ch">Week</th>
+      <th class="center schedule-week-num">Week</th>
       <th>Date</th>
       <th>Lecture</th>
       <th>Readings</th>
@@ -11,7 +11,7 @@
       <th>Assignment</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody class="js-scheduleContent">
     <tr>
       <td rowspan=5>1</td> <!-- Week Number -->
       <th>Mon 1/17</th> <!-- Date -->

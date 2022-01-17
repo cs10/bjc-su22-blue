@@ -1,3 +1,28 @@
+.schedule-table {
+  th, td {
+    min-width: 0px; // Override just-the-docs
+  }
+
+  thead > th {
+    // TODO: Use Berkeley Colors?
+    background-color: darkblue;
+    color: white;
+  }
+
+  tr.today {
+    border: 3px solid gold;
+  }
+
+  tr.even {
+    background-color:rgba(0, 0, 0, .5);
+  }
+
+  .schedule-week-num {
+    width: 5ch;
+  }
+}
+
+
 .schedule {
   @include abstract-card();
   overflow-x: scroll;
