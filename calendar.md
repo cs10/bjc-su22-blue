@@ -57,7 +57,7 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 1/24</th> <!-- Date -->
-      <td>2. Functions (due Tues 2/1)</td> <!-- Lecture -->
+      <td>2. Functions</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -67,7 +67,7 @@
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ1: Learning to Code</td> <!-- Readings -->
-      <td>2. Build Your Own Blocks</td> <!-- Lab -->
+      <td>2. Build Your Own Blocks (due Tues 2/1) </td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
