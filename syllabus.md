@@ -28,14 +28,14 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest). What’s more, by asking and answering questions, you also get a chance to earn some extra EPA points (more on that later)!
 * **Gradescope**: This is where you will submit assignments and reading quizzes.
 * **bCourses:** bCourses will be the place for your Reading Quizzes, and will contain all of your other grades.
-* **Zoom**: Live sessions, discussion sections will be held via Zoom.
-* **Ohyay**: Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
+* **Zoom**: Discussion sections and lectures (when remote) will be held via Zoom.
+* **OhYay**:  Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
 
 ## Primary Course Components
 
 * **Lecture**: Lecture will be live and in person in Stanley 106. However, the number of seats is greatly exceeded by the number of students. As a result, you MUST SIGN UP IN ADVANCE to attend lecture. A signup sheet for lecture will be created and emailed out each week. There will be a live Zoom webcast of the in-person lecture. Lecture recordings will also be posted on cs10.org after class.
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Six out of eight labs will be in person, and the remaining two will be online. Attendance is not mandatory, though you can gain "pacing points" by attending (see below under grades). To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please contact your check-in TA (see below). Each lab will be due at the end of the following lab day. For example, if you have signed up for a Mon/Wed lab, labs released on Monday will be due end of day on Wednesday and labs released on Wednesday will be due end of day on the following Monday. This works analogously for a Tue/Thu lab section. There will be at least 18 total labs — but only your top 16 lab scores will count towards your grade. Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab.
+* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though you can gain "pacing points" by attending (see below under grades). To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please contact your check-in TA (see below). Each lab will be due at the end of the following lab day. For example, if you have signed up for a Mon/Wed lab, labs released on Monday will be due end of day on Wednesday and labs released on Wednesday will be due end of day on the following Monday. This works analogously for a Tue/Thu lab section. There will be at least 18 total labs — but only your top 16 lab scores will count towards your grade. Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab.
 
 * **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. Attendance is not required, but you can earn pacing points (see below) by attending.
 
@@ -57,11 +57,11 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 | Homework 2: Mastermind         | 20       |
 | Homework 3: 2048               | 30       |
 | Project 4: Explore             | 40       |
-| Project 5: Pytris              | 45       |
+| Project 5: 2048 Translation    | 45       |
 | Project 6: Your Choice         | 75       |
 | Labs                           | 40       |
 | Reading Quizzes                | 10       |
-| Attendance & Lecture Questions | 10       |
+| Attendance & Lecture Questions | 25       |
 
 **Total: 500 Points**
 
