@@ -33,17 +33,19 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 
 ## Primary Course Components
 
-* **Lecture**: Lecture will be live and in person in Stanley 106. However, the number of seats is greatly exceeded by the number of students. As a result, you MUST SIGN UP IN ADVANCE to attend lecture. A signup sheet for lecture will be created and emailed out each week. There will be a live Zoom webcast of the in-person lecture. Lecture recordings will also be posted on cs10.org after class.
+* **Lecture**: Lecture will be live and in person in Hearst Field Annex, A1. Lecture recordings will also be posted on cs10.org after class. Lecture introduces concepts and gives you and overview of what is happening in labs and discussions. Each lecture will be followed with self-check questions which you can answer online via Gradescope, which are counted as part of participation and attendance.
 
-* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though you can gain "pacing points" by attending (see below under grades). To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please contact your check-in TA (see below). Each lab will be due at the end of the following lab day. For example, if you have signed up for a Mon/Wed lab, labs released on Monday will be due end of day on Wednesday and labs released on Wednesday will be due end of day on the following Monday. This works analogously for a Tue/Thu lab section. There will be at least 18 total labs — but only your top 16 lab scores will count towards your grade. Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab.
+* **Lab Sections**: Labs will be held synchronously and are the primary place you will learn to program. Attendance is not mandatory, though you can gain points by attending (see below under grades). To earn full credit for a lab, it must be completed, submitted, and checked off. Checkoff can be done either in lab or in office hours. If you have a special circumstance where you are unable to check-off a lab, please contact your check-in TA (see below). Each lab will be due one week after the lab is released. For example, if you have signed up for a Mon/Wed lab, labs released on Monday will be due end of day on the following Monday. This works analogously for a Tue/Thu lab section. There will be at least 18 total labs — but only your top 16 lab scores will count towards your grade. Each lab is worth 2.5 points. Half a point will be deducted for each day that a lab is checked off late; however, a maximum of 1 point will be deducted for any given lab. We encourage you to attend the same lab throughout the semester, but you are also welcome to attend any lab if you need to.
 
-* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. Attendance is not required, but you can earn pacing points (see below) by attending.
+* **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. Attendance is not required, but you can earn points (see below) by attending.
 
-* **Weekly Surveys**: Every week there is a short mandatory survey. Each survey is worth one point and we will drop your lowest 4 surveys.
-
-* **Reading Quizzes**: Reading Quizzes will be based on the readings on cs10.org and will be due each Friday at 11:59pm PT on Gradescope. There will be 12 reading quizzes, and we will only keep your 8 best reading quiz scores, dropping the rest. Reading quizzes will be open-note, handwritten or typed is fine. These will be done asynchronously, NO LONGER in-lab.
+* **Reading Quizzes**: Reading Quizzes will be given during the first beginning of the first lab each week, with some exceptions that will be noted on the course calendar. They will be offered **synchrounously** at the start of lab. They will happen via bCourses.
 
 * **Office Hours**: During office hours, you can meet with a TA or Josh for help with course material, assignments, or bigger picture questions.
+
+<!-- * **Participation and Attendance**: How to get to 30 points... -->
+<!-- TODO: Project and Homework Description -->
+
 
 ## Grading Breakdown
 
@@ -52,16 +54,16 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 | Quest                          | 20       |
 | Midterm                        | 80       |
 | Final                          | 100      |
-| Homework 0: Introduce Yourself | 10       |
+| Homework 0: Introduce Yourself | 5        |
 | Homework 1: Wordmatch          | 10       |
 | Homework 2: Mastermind         | 20       |
-| Homework 3: 2048               | 30       |
-| Project 4: Explore             | 40       |
-| Project 5: 2048 Translation    | 45       |
-| Project 6: Your Choice         | 75       |
+| Project 1: 2048                | 30       |
+| Project 2: Explore             | 40       |
+| Homework 3: 2048 Translation   | 40       |
+| Project 3: Your Choice         | 75       |
 | Labs                           | 40       |
 | Reading Quizzes                | 10       |
-| Attendance & Lecture Questions | 25       |
+| Attendance & Lecture Questions | 30       |
 
 **Total: 500 Points**
 
@@ -96,7 +98,7 @@ There will be three exams: The Quest, the Midterm and the Final Exam. Exams will
 For students who want to take exams in-person with TAs present, we will have rooms booked, though you will need to bring your own laptop with you to take the exam.
 
 ## DSP Accommodations
-If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to cs10@berkeley.edu.
+If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu).
 
 
 ## Academic Integrity

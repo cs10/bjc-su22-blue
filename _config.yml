@@ -17,19 +17,26 @@ permalink: pretty
 aux_links:
   "Snap!":
     - "https://snap.berkeley.edu/"
-  # TODO: Ed, Gradescope, bCourses, labs
+  Lecture Zoom:
+    - https://berkeley.zoom.us/s/99682681232?pwd=bEp1TjZ4WlU5bVFPejlIbHp2ZUVadz09#success
+  Ed Discussion:
+    - https://edstem.org/us/courses/18545/
+  Gradescope:
+    - https://www.gradescope.com/courses/354801
+  bCourses:
+    https://bcourses.berkeley.edu/courses/1513042
 aux_links_new_tab: true
 ga_tracking: UA-47210910-1
 footer_content:
 
 ################################################
 # Custom Data
-bCourses: 1408649
-labsCourse: cs10_sp22.html
-ed_id: sigcse/spring2016/cs10/home
-# IS INST DOWN?
-labsurl: http://beautyjoy.github.io/bjc-r
+bCourses: 1513042
+labsCourse: cs10_fa21.html
+ed_id: 18545
+labsurl: https://cs10.org/
 
+###### TODO: UPDATE THESE, CURRENTLY UNUSED
 # This section controlls the interactive google calendar.
 # Should be in MomentJS format
 startDate: 2016-01-17 # First Sunday
