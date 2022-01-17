@@ -53,7 +53,7 @@
       <td>1. Snap! Scavenger Hunt</td> <!-- Discussion -->
       <td>HW 0 due Sat 1/22</td> <!-- Assignment -->
     </tr>
-    <!-- WEEK 2------------------------------------------------------------ -->
+    <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 1/24</th> <!-- Date -->
@@ -61,13 +61,13 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release HW 1: Mastermind</td> <!-- Assignment -->
+      <td>release HW 1: Wordmatch</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ1: Learning to Code</td> <!-- Readings -->
-      <td>2. Build Your Own Blocks (due Tues 2/1) </td> <!-- Lab -->
+      <td>RQ1: Intro to Abstraction</td> <!-- Readings -->
+      <td>2. Build Your Own Blocks (due 2/1) </td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -83,7 +83,7 @@
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>3. Conditionals and Reporters & Abstraction</td> <!-- Lab -->
+      <td>3. Conditionals and Reporters & Abstraction (due 2/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -95,7 +95,7 @@
       <td>2. Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
-    <!-- WEEK 3------------------------------------------------------------ -->
+    <!-- WEEK THREE------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 1/31</th> <!-- Date -->
@@ -103,38 +103,122 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release HW 1: Mastermind Party </td> <!-- Assignment -->
+      <td>HW 1 Party</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 2/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ1: Learning to Code</td> <!-- Readings -->
-      <td>4. Lists & HOFs</td> <!-- Lab -->
+      <td>RQ 1: Learning to Code</td> <!-- Readings -->
+      <td>4. Lists & HOFs (due 2/10)</td> <!-- Lab -->
+      <td></td><!-- Discussion -->
+      <td>HW 1 due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 2/2 </th> <!-- Date -->
+      <td>5. Algorithms</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td>release HW 2: Mastermind (due 2/15)</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 2/3</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>5. Algorithms (due 2/10)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 2/4</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td>3. Domain and Range, HOFs & Scoping</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK FOUR------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>2</td>
+      <th>Mon 2/7</th> <!-- Date -->
+      <td>6. Algorithmic Complexity</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 2/8</th> <!-- Date -->
+      <td>QUEST</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Wed 1/26 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction</td> <!-- Lecture -->
+      <th>Wed 2/9 </th> <!-- Date -->
+      <td>7. Social Implications of Computing I</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Thur 1/27</th> <!-- Date -->
+      <th>Thur 2/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>3. Conditionals and Reporters & Abstraction</td> <!-- Lab -->
+      <td>6: Algorithmic Complexity (due 2/17)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Fri 1/28</th> <!-- Date -->
+      <th>Fri 2/11</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>2. Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
+      <td>4. Algorithms</td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <!-- WEEK FIVE ------------------------------------------------------------ -->
+    <tr>
+      <td rowspan=5>2</td>
+      <th>Mon 2/14</th> <!-- Date -->
+      <td>8: Testing + 2048</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Tue 2/15</th> <!-- Date -->
+      <td>QUEST</td> <!-- Lecture -->
+      <td>RQ 3:</td> <!-- Readings -->
+      <td>7. Testing + Project 1</td> <!-- Lab -->
+      <td></td><!-- Discussion -->
+      <td>HW 2 Party; HW 2 due</td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Wed 2/16 </th> <!-- Date -->
+      <td>7. Social Implications of Computing I</td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Thur 2/17</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td>6: Algorithmic Complexity (due 2/17)</td> <!-- Lab -->
+      <td></td> <!-- Discussion -->
+      <td></td> <!-- Assignment -->
+    </tr>
+    <tr>
+      <th>Fri 2/18</th> <!-- Date -->
+      <td></td> <!-- Lecture -->
+      <td></td> <!-- Readings -->
+      <td></td> <!-- Lab -->
+      <td>4. Algorithms</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
   </tbody>
