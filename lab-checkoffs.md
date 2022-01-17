@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lab Check-Offs
+title: Lab Check-Off Questions
 description: A list of all labs and associated check-off questions.
 nav_order: 3
 lab_course: cs10_fa21.html
@@ -19,10 +19,18 @@ labs:
       - What are some different ways to achieve repetition? Name at least 2.
       - Show your random-walk sprite.
       - Show your "draw square-leaved flower..." block.
-  - lab_name:
+  - lab_name: Conditionals, Reporters & Testing
     lab_no: 3
-    topic_file:
+    topic_file: berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic
     questions:
+      - What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value.
+      - Show us your traffic signal and letter grade blocks.
+      - Explain the difference between a command and a reporter block.
+      - Show us the `is _ between _ and _ ?` block.
+      - What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5?
+      - Name a few of the input types. Why is it important that we specify input types?
+      - How are global variables different from script variables?
+      - Show and explain your sum of two smallest block.
   - lab_name:
     lab_no: 4
     topic_file:
@@ -102,22 +110,11 @@ On this page, you will find a list of check-off questions for each lab.
   </a>
   <ul>
     {% for question in lab.questions %}
-      <li>{{ question }}</li>
+      <li>{{ question | markdownify}}</li>
     {% endfor %}
   </ul>
 </details>
 {% endfor %}
-
-**Lab 3**{: .label .label-lab } [Conditionals, Reporters & Testing](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-
-- What is a Boolean? Explain why we use them, and give examples of functions that report a Boolean value.
-- Show us your traffic signal and letter grade blocks.
-- Explain the difference between a command and a reporter block.
-- Show us the “is _ between _ and _ ?” block.
-- What does the mystery reporter (at the bottom of the “Reporter Blocks” page) report when run with the inputs hello and 5?
-- Name a few of the input types. Why is it important that we specify input types?
-- How are global variables different from script variables?
-- Show and explain your sum of two smallest block.
 
 **Lab 4**{: .label .label-lab } [Lists and HOFS](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
