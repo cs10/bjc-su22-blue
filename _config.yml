@@ -14,19 +14,19 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links_new_tab: true
+ga_tracking: UA-47210910-1
 aux_links:
   "Snap!":
     - "https://snap.berkeley.edu/"
-  Lecture Zoom:
+  "Lecture Zoom":
     - https://berkeley.zoom.us/s/99682681232?pwd=bEp1TjZ4WlU5bVFPejlIbHp2ZUVadz09#success
-  Ed Discussion:
+  "Ed Discussion":
     - https://edstem.org/us/courses/18545/
-  Gradescope:
+  "Gradescope":
     - https://www.gradescope.com/courses/354801
-  bCourses:
+  "bCourses":
     https://bcourses.berkeley.edu/courses/1513042
-aux_links_new_tab: true
-ga_tracking: UA-47210910-1
 footer_content:
 
 ################################################
