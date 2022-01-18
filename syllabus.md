@@ -43,8 +43,10 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 
 * **Office Hours**: During office hours, you can meet with a TA or Michael for help with course material, assignments, or bigger picture questions.
 
-<!-- * **Participation and Attendance**: How to get to 30 points... -->
-<!-- TODO: Project and Homework Description -->
+* **Participation and Attendance**: You can receive points for this category by attending discussion, lab, and doing post-lecture questions. Note that there will be more than 30 points available (so you can still get full points in this category if you miss section or don't do post-lecture questions one week) and that once you reach 30, your grade will cap out there (no extra credit if you get above 30; just full points(: ).
+
+* **Project and Homework Description**: These assignments will be one of the best ways for you to apply what you have learned in lecture, lab and discussion. These will be a bit more time intensive than the other assignments and will require you to be caught up on the other components of the class. Homeworks will tend to be a bit less difficult and time intensive, while projects will take a bit longer and require more work on your part. Note that you may use 8 slip days (explained in more detail below) total this semester on assignments in  this category.
+
 
 
 ## Grading Breakdown
