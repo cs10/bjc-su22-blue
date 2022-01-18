@@ -1,5 +1,5 @@
 ---
-name: Vaibhav Mohata (he/him)
+name: Projects Lead Vaibhav Mohata (he/him)
 role: Lab TA
 email: vaibhav.mohata@berkeley.edu
 website:
