@@ -69,6 +69,8 @@ function Project(title, release_date, url, due_date, submission_url, additional)
   return Assignment(title, release_date, url, due_date, submission_url, additional, 'project');
 }
 
+// TODO: Add link to check off questions
+// TODO: Add link to bCourses?
 function Lab(title, release_date, url, due_date, additional) {
   if (title == 'No Lab') {
     return { type: 'lab', title: 'No Lab', date: release_date, classes: 'no-class'};
