@@ -1,5 +1,5 @@
 ---
-name: Ben Pierias (he/him)
+name: AIs Lead Ben Pierias (he/him)
 role: Lab TA
 email: bpierias@berkeley.edu
 website:
