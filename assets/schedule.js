@@ -69,6 +69,8 @@ function Project(title, release_date, url, due_date, submission_url, additional)
   return Assignment(title, release_date, url, due_date, submission_url, additional, 'project');
 }
 
+// TODO: Add link to check off questions
+// TODO: Add link to bCourses?
 function Lab(title, release_date, url, due_date, additional) {
   if (title == 'No Lab') {
     return { type: 'lab', title: 'No Lab', date: release_date, classes: 'no-class'};
@@ -178,6 +180,7 @@ const TYPE_ORDER = [
   'homework'
 ]
 function renderSchedule(schedule, startDate, numWeeks, target) {
+  dayjs.extend(dayjs_plugin_weekOfYear)
   // TODO: Assert startDate is a SUNDAY
   let scheduleTable = $(target);
   let week = 1;
@@ -186,6 +189,9 @@ function renderSchedule(schedule, startDate, numWeeks, target) {
   let row;
   while (week < numWeeks) {
     let dayOfWeek = currentDate.day();
+    if (dayOfWeek == SATURDAY || dayOfWeek == SUNDAY) {
+      continue;
+    }
     let current = schedule[currentDate];
     week = weekNumber(currentDate, startDate);
     let rowClasses = week % 2 == 0 ? 'even' : 'odd';
@@ -193,16 +199,17 @@ function renderSchedule(schedule, startDate, numWeeks, target) {
       rowClasses += ' today'
     }
     row = $(`<tr class="${rowClasses}">`);
-    console(row);
+    console.log(row);
     if (dayOfWeek == MONDAY) {
       row.append(`<td rowspan=5 clas="">${week}</td>`);
     }
     row.append(`<td>${currentDate.format('dd M/D')}</td>`);
     TYPE_ORDER.forEach(type => {
-      if (!current || !current[type]) {
+      if (!current && !current[type]) {
         row.append(`<td></td>`);
+      } else {
+        row.append(`<td class="schedule-${type}">${render(current[type])}</td>`);
       }
-      row.append(`<td class="schedule-${type}">${render(current[type])}</td>`);
     });
     scheduleTable.append(row);
     console.log(row)
