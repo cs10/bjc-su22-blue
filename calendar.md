@@ -42,7 +42,7 @@
       <th>Thur 1/20</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>1. Welcome to Snap!</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/1-introduction.topic&course=cs10_fa21.html&novideo&noreading&noassignment">1. Welcome to Snap!</a><br>(No checkoff)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -52,7 +52,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td>1. Snap! Scavenger Hunt</td> <!-- Discussion -->
-      <td>HW 0 due Sat 1/22</td> <!-- Assignment -->
+      <td><a href="{{site.baseurl}}/assignment/?https://docs.google.com/document/d/e/2PACX-1vRUa5hCms-M7_o3S0HirJqWdsqD0sE3YpqTI3y-pTyYg02anuEQ6pnOL5F3guQOXGXAvalzavi9dAH_/pub">HW 0 due Sat 1/22</a></td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
