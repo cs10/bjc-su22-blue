@@ -50,7 +50,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>1. Snap! Scavenger Hunt</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">Snap! Scavenger Hunt</a>1</td> <!-- Discussion -->
       <td>HW 0 due Sat 1/22</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
