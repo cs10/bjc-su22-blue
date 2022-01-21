@@ -52,7 +52,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">Snap! Scavenger Hunt</a>1</td> <!-- Discussion -->
-      <td><a href="https://docs.google.com/document/d/e/2PACX-1vRUa5hCms-M7_o3S0HirJqWdsqD0sE3YpqTI3y-pTyYg02anuEQ6pnOL5F3guQOXGXAvalzavi9dAH_/pub">HW 0 due Sat 1/22</a><br></td>
+      <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">HW 0 due Sat 1/22</a><br></td>
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
