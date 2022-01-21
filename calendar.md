@@ -52,9 +52,8 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">Snap! Scavenger Hunt</a>1</td> <!-- Discussion -->
-      <td>HW 0 due Sat 1/22</td> <!-- Assignment -->
       <td><a href="https://docs.google.com/document/d/e/2PACX-1vRUa5hCms-M7_o3S0HirJqWdsqD0sE3YpqTI3y-pTyYg02anuEQ6pnOL5F3guQOXGXAvalzavi9dAH_/pub">1. Snap! Scavenger Hunt</a><br></td>
-      <td></td> <!-- Assignment -->
+      <td>HW 0 due Sat 1/22</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
