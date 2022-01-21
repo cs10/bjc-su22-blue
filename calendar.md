@@ -52,7 +52,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">Snap! Scavenger Hunt</a>1</td> <!-- Discussion -->
-      <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">HW 0 due Sat 1/22</a><br></td>
+      <td><a href="https://www.gradescope.com/courses/354801/assignments/1779069">HW 0 due Sat 1/22</a><br></td>
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
