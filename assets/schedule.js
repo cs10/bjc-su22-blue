@@ -1,6 +1,3 @@
-dayjs().format();
-
-
 function docs(id) {
   return 'assign.html?//docs.google.com/document/d/' + id + '/pub';
 }
@@ -20,7 +17,7 @@ const COUNTER = {
   lab: 1,
 }
 // TODO: Use a class?
-const CS10_SCHEDULE = {
+let CS10_SCHEDULE = {
 };
 
 function addToSchedule(date, item) {
@@ -178,16 +175,16 @@ const TYPE_ORDER = [
   'lab',
   'discussion',
   'homework'
-]
-function renderSchedule(schedule, startDate, numWeeks, target) {
-  dayjs.extend(dayjs_plugin_weekOfYear)
+];
+
+function renderSchedule(schedule, startDate, endDate, target) {
   // TODO: Assert startDate is a SUNDAY
   let scheduleTable = $(target);
   let week = 1;
   let currentDate = startDate;
   let now = dayjs();
   let row;
-  while (week < numWeeks) {
+  while (currentDate.isBefore(endDate)) {
     let dayOfWeek = currentDate.day();
     if (dayOfWeek == SATURDAY || dayOfWeek == SUNDAY) {
       continue;
@@ -214,22 +211,24 @@ function renderSchedule(schedule, startDate, numWeeks, target) {
     scheduleTable.append(row);
     console.log(row)
     currentDate = currentDate.add(1, 'day');
+    console.log('week', week)
     console.log(currentDate)
   }
 }
 
 //////////////////////////////////////////////////
 // Monday of the first week of classes
-const FIRST_DAY = dayjs('2022-01-16');
-const firstLecture = FIRST_DAY.add(1, 'day');
-const firstLab = FIRST_DAY.add(2, 'days');
-const firstDiscussion = FIRST_DAY.add(5, 'days');
-const firstReading = firstLab;
+let FIRST_DAY = dayjs('2022-01-16');
+let LAST_DAY = dayjs('2022-05-14');
+let firstLecture = FIRST_DAY.add(1, 'day');
+let firstLab = FIRST_DAY.add(2, 'days');
+let firstDiscussion = FIRST_DAY.add(5, 'days');
+let firstReading = firstLab;
 
-const nextLecture = GenerateDateIncrementor(firstLecture, [2, 7]);
-const nextLab = GenerateDateIncrementor(firstLab, [2, 7]);
-const nextDiscussion = GenerateDateIncrementor(firstDiscussion, [7]);
-const nextReading = GenerateDateIncrementor(firstReading, [7]);
+let nextLecture = GenerateDateIncrementor(firstLecture, [2, 7]);
+let nextLab = GenerateDateIncrementor(firstLab, [2, 7]);
+let nextDiscussion = GenerateDateIncrementor(firstDiscussion, [7]);
+let nextReading = GenerateDateIncrementor(firstReading, [7]);
 
 // Monday 1/17
 Lecture('No Class', nextLecture());
@@ -239,4 +238,9 @@ Lab('Intro to Snap!', nextLab(), 'https://cs10.org/bjc-r/...');
 Discussion('Welcome to CS10', nextDiscussion());
 Homework('Introduce Yourself', dayjs('2022-01-19'), 'https://gradesope.com', dayjs('2022-01-22'))
 
-renderSchedule(CS10_SCHEDULE, FIRST_DAY, 17);
+console.log('JS Here')
+window.addEventListener('load', () => {
+  console.log('window loaded.')
+  dayjs.extend(dayjs_plugin_weekOfYear)
+  renderSchedule(CS10_SCHEDULE, FIRST_DAY, LAST_DAY, '.schedule-table');
+})

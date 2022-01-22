@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Calendar (JS)
+permalink: /cal
 nav_exclude: true
 ---
 

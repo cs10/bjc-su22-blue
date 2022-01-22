@@ -1,7 +1,16 @@
 .schedule-table {
+  border-collapse: collapse;
+
+  td:first-of-type {
+    text-align: center;
+  }
+
+  // just-the-docs classes
+  tbody tr:last-of-type th, tbody tr:last-of-type td,
   th, td {
+    padding: 0.2rem;
     min-width: 0px; // Override just-the-docs
-    border: 1px solid #3B7EA1;
+    border: 1.5px solid #3B7EA1;
   }
 
   thead > tr > th {
@@ -20,7 +29,6 @@
     width: 5ch;
   }
 }
-
 
 .schedule {
   @include abstract-card();
