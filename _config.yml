@@ -16,17 +16,17 @@ heading_anchors: true
 permalink: pretty
 aux_links_new_tab: true
 ga_tracking: UA-47210910-1
-aux_links:
-  "Snap!":
-    - "https://snap.berkeley.edu/"
-  "Lecture Zoom":
-    - https://berkeley.zoom.us/s/99682681232?pwd=bEp1TjZ4WlU5bVFPejlIbHp2ZUVadz09#success
-  "Ed Discussion":
-    - https://edstem.org/us/courses/18545/
-  "Gradescope":
-    - https://www.gradescope.com/courses/354801
-  "bCourses":
-    https://bcourses.berkeley.edu/courses/1513042
+external_navigation:
+  - title: Snap!
+    url: https://snap.berkeley.edu/
+  - title: Lecture Zoom
+    url: https://berkeley.zoom.us/s/99682681232?pwd=bEp1TjZ4WlU5bVFPejlIbHp2ZUVadz09#success
+  - title: Ed Discussion
+    url: https://edstem.org/us/courses/18545/
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/354801
+  - title: bCourses
+    url: https://bcourses.berkeley.edu/courses/1513042
 footer_content:
 
 ################################################
@@ -92,3 +92,6 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+just_the_docs:
+  collections:
