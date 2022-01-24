@@ -16,21 +16,41 @@ const COUNTER = {
   discussion: 1,
   lab: 1,
 }
-// TODO: Use a class?
-let CS10_SCHEDULE = {
-};
+
+let FIRST_DAY = dayjs('2022-01-16');
+let LAST_DAY = dayjs('2022-05-14');
+
+function createSchedule(startDate, endDate) {
+  let schedule = {};
+  let index = startDate;
+  let stop = endDate.add(1, 'day');
+  if (startDate.day() !== 1) {
+    throw new Error('Start Date must start on a monday');
+  }
+  while (index.isBefore(stop)) {
+    // Skip weekends
+    if (index.day() > 0 && index.day() < 6) {
+      schedule[index.format('dd M/D')] = {
+        date: index
+      };
+    }
+    index = index.add(1, 'day');
+    return schedule;
+}
+
 
 function addToSchedule(date, item) {
-  if (!CS10_SCHEDULE[date]) {
-    CS10_SCHEDULE[date] = {}
+  key = date.format('dd M/D');
+  if (!CS10_SCHEDULE[key]) {
+    CS10_SCHEDULE[key] = {}
   }
-  if (CS10_SCHEDULE[date][item.type]) {
-    CS10_SCHEDULE[date][item.type].push(item);
+  if (CS10_SCHEDULE[key][item.type]) {
+    CS10_SCHEDULE[key][item.type].push(item);
   } else {
-    CS10_SCHEDULE[date][item.type] = [item];
+    CS10_SCHEDULE[key][item.type] = [item];
   }
   if (item.title == SKIPPED_ITEM) {
-    CS10_SCHEDULE[date][item.type] = SKIPPED_ITEM;
+    CS10_SCHEDULE[key][item.type] = SKIPPED_ITEM;
   }
 }
 
@@ -177,20 +197,19 @@ const TYPE_ORDER = [
   'homework'
 ];
 
-function renderSchedule(schedule, startDate, endDate, target) {
-  // TODO: Assert startDate is a SUNDAY
+function renderSchedule(schedule, target) {
   let scheduleTable = $(target);
-  let week = 1;
   let currentDate = startDate;
   let now = dayjs();
   let row;
   while (currentDate.isBefore(endDate)) {
     let dayOfWeek = currentDate.day();
     if (dayOfWeek == SATURDAY || dayOfWeek == SUNDAY) {
+      currentDate = currentDate.add(1, 'day');
       continue;
     }
     let current = schedule[currentDate];
-    week = weekNumber(currentDate, startDate);
+    let week = weekNumber(currentDate, startDate);
     let rowClasses = week % 2 == 0 ? 'even' : 'odd';
     if (currentDate.isSame(now, 'day')) {
       rowClasses += ' today'
@@ -218,10 +237,8 @@ function renderSchedule(schedule, startDate, endDate, target) {
 
 //////////////////////////////////////////////////
 // Monday of the first week of classes
-let FIRST_DAY = dayjs('2022-01-16');
-let LAST_DAY = dayjs('2022-05-14');
-let firstLecture = FIRST_DAY.add(1, 'day');
-let firstLab = FIRST_DAY.add(2, 'days');
+let firstLecture = FIRST_DAY;
+let firstLab = FIRST_DAY.add(4, 'days');
 let firstDiscussion = FIRST_DAY.add(5, 'days');
 let firstReading = firstLab;
 
@@ -229,6 +246,8 @@ let nextLecture = GenerateDateIncrementor(firstLecture, [2, 7]);
 let nextLab = GenerateDateIncrementor(firstLab, [2, 7]);
 let nextDiscussion = GenerateDateIncrementor(firstDiscussion, [7]);
 let nextReading = GenerateDateIncrementor(firstReading, [7]);
+
+let CS10_SCHEDULE = createSchedule(FIRST_DAY, LAST_DAY);
 
 // Monday 1/17
 Lecture('No Class', nextLecture());
@@ -242,5 +261,5 @@ console.log('JS Here')
 window.addEventListener('load', () => {
   console.log('window loaded.')
   dayjs.extend(dayjs_plugin_weekOfYear)
-  renderSchedule(CS10_SCHEDULE, FIRST_DAY, LAST_DAY, '.schedule-table');
+  // renderSchedule(CS10_SCHEDULE, '.schedule-table');
 })
