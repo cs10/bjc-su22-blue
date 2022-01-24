@@ -51,8 +51,8 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>1. Snap! Scavenger Hunt</td> <!-- Discussion -->
-      <td><a href="{{site.baseurl}}/assignment/?https://docs.google.com/document/d/e/2PACX-1vRUa5hCms-M7_o3S0HirJqWdsqD0sE3YpqTI3y-pTyYg02anuEQ6pnOL5F3guQOXGXAvalzavi9dAH_/pub">HW 0 due Sat 1/22</a></td> <!-- Assignment -->
+      <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">Snap! Scavenger Hunt </a><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
+      <td><a href="https://www.gradescope.com/courses/354801/assignments/1779069">HW 0 due Sat 1/22</a><br></td>
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
     <tr>
@@ -68,7 +68,7 @@
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ1: Intro to Abstraction</td> <!-- Readings -->
-      <td>2. Build Your Own Blocks (due 2/1) </td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a> (due 2/1) </td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -84,7 +84,7 @@
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>3. Conditionals and Reporters & Abstraction (due 2/3)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals and Reporters & Abstraction </a>(due 2/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>

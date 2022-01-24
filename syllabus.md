@@ -26,8 +26,8 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org.
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest). What’s more, by asking and answering questions, you also get a chance to earn some extra EPA points (more on that later)!
-* **Gradescope**: This is where you will submit assignments and reading quizzes.
-* **bCourses:** bCourses will be the place for your Reading Quizzes, and will contain all of your other grades.
+* **Gradescope**: This is where you will submit projects and homeworks.
+* **bCourses:** bCourses will be the place you take your Reading Quizzes, and will contain all of your other grades.
 * **Zoom**: Discussion sections and lectures (when remote) will be held via Zoom.
 * **OhYay**:  Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
 
