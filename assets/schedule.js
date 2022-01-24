@@ -35,7 +35,8 @@ function createSchedule(startDate, endDate) {
       };
     }
     index = index.add(1, 'day');
-    return schedule;
+  }
+  return schedule;
 }
 
 
@@ -260,6 +261,6 @@ Homework('Introduce Yourself', dayjs('2022-01-19'), 'https://gradesope.com', day
 console.log('JS Here')
 window.addEventListener('load', () => {
   console.log('window loaded.')
-  dayjs.extend(dayjs_plugin_weekOfYear)
+  dayjs.extend(dayjs_plugin_weekOfYear);
   // renderSchedule(CS10_SCHEDULE, '.schedule-table');
-})
+});
