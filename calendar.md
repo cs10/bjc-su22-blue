@@ -59,7 +59,9 @@
     <tr>
       <td rowspan=5>2</td>
       <th>Mon 1/24</th> <!-- Date -->
-      <td>2. Functions</td> <!-- Lecture -->
+      <td>2. Functions
+        <a href="https://docs.google.com/presentation/d/1Dxi_9wF5ZWqufCqE7qXMwavMC27i22uMHAx6Zcb22n0/edit?usp=sharing">(Slides)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1799493/submissions/new">(Self-Check)</a>
+        </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
