@@ -68,7 +68,7 @@
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ1: Intro to Abstraction</td> <!-- Readings -->
-      <td>2. Build Your Own Blocks (due 2/1) </td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a> (due 2/1) </td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -84,7 +84,7 @@
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>3. Conditionals and Reporters & Abstraction (due 2/3)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals and Reporters & Abstraction </a>(due 2/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
