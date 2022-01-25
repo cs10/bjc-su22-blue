@@ -33,7 +33,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 </script>
 
-<a href="#" class="btn" target=_blank id="js-newTab">Open In New Tab</a>
+<a href="#" class="btn btn-green" target=_blank id="js-newTab">Open In New Tab</a>
 
 <iframe id='frm' onload='autoRes("frm")' src="">
   There should be an assignment here. Oops!
