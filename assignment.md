@@ -13,9 +13,10 @@ function autoRes(id) {
 function updateAssignment() {
     doc = document.URL.split("?")[1];
     let iframe = document.getElementById('frm');
-    iframe.src = doc + "?embedded=true";
+    iframe.src = `${doc}?embedded=true`;
     iframe.style = `min-height: ${window.innerHeight - 60}px`;
     resize('frm', document.getElementById('frm').src);
+    document.getElementById('js-newTab').href = doc;
 }
 if (window.addEventListener) {
   function resize(id, other_domain) {
