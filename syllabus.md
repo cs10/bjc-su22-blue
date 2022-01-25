@@ -26,8 +26,8 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 
 * **Course Website**: The day-to-day happenings of the course (and links to all the platforms below) can be found at cs10.org.
 * **Ed**: This will be our main Q&A platform, where you can ask questions, see announcements, and participate in our meme contest (yes, a meme contest). What’s more, by asking and answering questions, you also get a chance to earn some extra EPA points (more on that later)!
-* **Gradescope**: This is where you will submit projects and homeworks.
-* **bCourses:** bCourses will be the place you take your Reading Quizzes, and will contain all of your other grades.
+* **Gradescope**: This is where you will submit projects and homeworks, and take reading quizzes during lab.
+* **bCourses:** bCourses will be where your lab grades will be recorded amongst other assignments.
 * **Zoom**: Discussion sections and lectures (when remote) will be held via Zoom.
 * **OhYay**:  Online lab sections and office hours will be held via Ohyay. Ohyay is a new tool which lets us build some interactive spaces.
 
@@ -39,7 +39,7 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 
 * **Discussion Sections**: Discussion sections are where you will delve into the content more deeply with worksheets in traditional “pen-and-paper” style. This is where you will develop the theoretical computational skills needed to understand the basics of programming. Attendance is not required, but you can earn points (see below) by attending.
 
-* **Reading Quizzes**: Reading Quizzes will be given during the first beginning of the first lab each week, with some exceptions that will be noted on the course calendar. They will be offered **synchronously** at the start of lab. They will happen via bCourses.
+* **Reading Quizzes**: Reading Quizzes will be given during the first beginning of the first lab each week, with some exceptions that will be noted on the course calendar. They will be offered **synchronously** at the start of lab. They will happen via gradescope.
 
 * **Office Hours**: During office hours, you can meet with a TA or Michael for help with course material, assignments, or bigger picture questions.
 

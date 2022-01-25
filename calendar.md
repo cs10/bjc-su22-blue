@@ -62,7 +62,7 @@
       <td>2. Functions
         <a href="https://docs.google.com/presentation/d/1Dxi_9wF5ZWqufCqE7qXMwavMC27i22uMHAx6Zcb22n0/edit?usp=sharing">(Slides)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1799493/submissions/new">(Self-Check)</a>
         </td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td> <a href="https://www.youtube.com/watch?v=dU1xS07N-FA">1. Learning to Code</a> </td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release HW 1: Wordmatch</td> <!-- Assignment -->
@@ -70,8 +70,8 @@
     <tr>
       <th>Tue 1/25</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ1: Intro to Abstraction</td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a> (due 2/1) </td> <!-- Lab -->
+      <td></td> <!-- Readings -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-loops-variables.topic&course=cs10_fa21.html&novideo&noreading&noassignment">2. Build Your Own Blocks</a> (due 2/3) </td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -86,7 +86,7 @@
     <tr>
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td> Reading Quiz 1 (in lab) </td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals and Reporters & Abstraction </a>(due 2/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
