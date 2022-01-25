@@ -27,7 +27,7 @@ UC Berkeley, Spring 2022
   </div>
 </div>
 <div style="flex-grow: 0">
-  <a href="/announcements" class="btn btn-outline">Previous Announcemnts</a>
+  <a href="{{ site.baseurl }}/announcements" class="btn btn-outline">Previous Announcemnts</a>
 </div>
 
 ## CS10 Calendar

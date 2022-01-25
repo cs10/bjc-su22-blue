@@ -31,66 +31,72 @@ labs:
       - Name a few of the input types. Why is it important that we specify input types?
       - How are global variables different from script variables?
       - Show and explain your sum of two smallest block.
-  - lab_name:
+  - lab_name: Lists and HOFs
     lab_no: 4
-    topic_file:
+    topic_file: berkeley_bjc/lists/lists-I.topic
     questions:
-  - lab_name:
-    lab_no: 5
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 6
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 7
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 8
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 9
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 10
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 11
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 12
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 13
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 14
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 15
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 16
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 17
-    topic_file:
-    questions:
-  - lab_name:
-    lab_no: 18
-    topic_file:
-    questions:
+      - What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
+      - What do `map`, `keep`, and `combine` each do?
+      - Show us your `acronym` block.
+      - Show us your `expand` block.
+      - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
+
+  # - lab_name:
+  #   lab_no: 5
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 6
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 7
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 8
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 9
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 10
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 11
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 12
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 13
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 14
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 15
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 16
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 17
+  #   topic_file:
+  #   questions:
+  # - lab_name:
+  #   lab_no: 18
+  #   topic_file:
+  #   questions:
 ---
 
 # Lab Check-Offs
@@ -116,12 +122,6 @@ On this page, you will find a list of check-off questions for each lab.
 </details>
 {% endfor %}
 
-**Lab 4**{: .label .label-lab } [Lists and HOFS](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
-- What do `map`, `keep`, and `combine` each do?
-- Show us your `acronym` block.
-- Show us your `expand` block.
-- What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
 
 **Lab 5**{: .label .label-lab } [Algorithms](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 

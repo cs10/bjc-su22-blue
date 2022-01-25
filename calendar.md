@@ -65,7 +65,10 @@
       <td> <a href="https://www.youtube.com/watch?v=dU1xS07N-FA">1. Learning to Code</a> </td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release HW 1: Wordmatch</td> <!-- Assignment -->
+      <td>
+        <a href="/sp22/assignment?https://docs.google.com/document/d/e/2PACX-1vQTzZytQuk8UaeSgzQRn1rXgCFnjXiQqIPCTrzgmQe175dM1CgNzr5nyz6KBaokAHV574V-nuARPE3q/pub">
+      release HW 1: Wordmatch</a>
+      </td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 1/25</th> <!-- Date -->
