@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <th>Wed 1/26 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction</td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction <a href="https://youtu.be/eBG6zV0sNsc">(Recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -99,7 +99,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/125svKGcs5LOVZUfkUW_zHYlTOgq6ef8U/view?usp=sharing"> 2. Number Rep, Booleans, Conditionals</a> </td> <!-- Discussion -->
+      <td>2. Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
