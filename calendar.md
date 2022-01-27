@@ -99,7 +99,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>2. Number Rep, Booleans, Conditionals</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/125svKGcs5LOVZUfkUW_zHYlTOgq6ef8U/view?usp=sharing"> 2. Number Rep, Booleans, Conditionals</a> </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
