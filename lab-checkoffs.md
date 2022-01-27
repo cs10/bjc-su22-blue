@@ -40,15 +40,25 @@ labs:
       - Show us your `acronym` block.
       - Show us your `expand` block.
       - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
-
-  # - lab_name:
-  #   lab_no: 5
-  #   topic_file:
-  #   questions:
-  # - lab_name:
-  #   lab_no: 6
-  #   topic_file:
-  #   questions:
+  - lab_name: Algorithms
+    lab_no: 5
+    topic_file: berkeley_bjc/areas/algorithms.topic
+    questions:
+      - What is an algorithm? Please give an example both in real life and from class.
+      - Please show both your "findNumberInUnsortedList" and "findNumberInSortedList" functions and describe the difference in the algorithms used.
+      - Are algorithms which are (on average) faster always "better"? Why or why not?
+      - What might some "trade-offs" to different computer science algorithms be?
+      - How can abstraction and algorithms relate in computer science?
+  - lab_name: Algorithmic Complexity
+    lab_no: 6
+    topic_file: berkeley_bjc/areas/algorithm-complexity.topic
+    questions:
+      - Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
+      - Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
+      - Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
+      - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
+      - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
+      - What is an example of an algorithm that we have seen that has an exponential runtime?
   # - lab_name:
   #   lab_no: 7
   #   topic_file:
@@ -122,25 +132,7 @@ On this page, you will find a list of check-off questions for each lab.
 </details>
 {% endfor %}
 
-
-**Lab 5**{: .label .label-lab } [Algorithms](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-
-- What is an algorithm? Please give an example both in real life and from class.
-- Please show both your "findNumberInUnsortedList" and "findNumberInSortedList" functions and describe the difference in the algorithms used.
-- Are algorithms which are (on average) faster always "better"? Why or why not?
-- What might some "trade-offs" to different computer science algorithms be?
-- How can abstraction and algorithms relate in computer science?
-
-**Lab 6**{: .label .label-lab } [Algorithmic Complexity](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=cs10_fa21.html&novideo&noreading&noassignment&course=cs10_fa21.html&novideo&noreading&noassignment)
-
-- Please show me your Non-Gauss and Gauss Add all numbers in. Which was faster? Why?
-- Of all the runtimes you have discovered thus far, can you rank them from “fastest” to “slowest”? Why is runtime important for the programs that we create?
-- Name the logarithmic time algorithm that we implemented in Lab 5. Explain why this algorithm runs in logarithmic time.
-- What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
-- What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
-- What is an example of an algorithm that we have seen that has an exponential runtime?
-
-
+<!-- 
  **Lab 7**{: .label .label-lab } [Testing & Project 3](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - How does the test block work? What is its domain and range?
 - Show us the output of your test block on the merge column. Explain why this output makes sense.
@@ -215,4 +207,4 @@ On this page, you will find a list of check-off questions for each lab.
 **Lab 18**{: .label .label-lab }[Debugging in OOP](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/oop-debugging.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - Show us the result of running the docstring under the Account class in your terminal.
 - Show us the result of running the docstring under each QuidditchPlayer subclass in your terminal.
-- What is some information the terminal gives you when there's an error in your code?
+- What is some information the terminal gives you when there's an error in your code? -->
