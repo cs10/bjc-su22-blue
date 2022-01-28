@@ -108,7 +108,7 @@
       <th>Mon 1/31</th> <!-- Date -->
       <td>4. Lists and Scoping</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW 1 Party</td> <!-- Assignment -->
     </tr>
@@ -116,7 +116,7 @@
       <th>Tue 2/1</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>4. Lists & HOFs (due 2/10)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a> (due 2/10)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW 1 due</td> <!-- Assignment -->
     </tr>
@@ -124,7 +124,7 @@
       <th>Wed 2/2 </th> <!-- Date -->
       <td>5. Algorithms</td> <!-- Lecture -->
       <td>RQ 2 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release HW 2: Mastermind (due 2/15)</td> <!-- Assignment -->
     </tr>
@@ -132,7 +132,7 @@
       <th>Thur 2/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 2 (TTh Labs)</td> <!-- Readings -->
-      <td>5. Algorithms (due 2/10)</td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms</a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
