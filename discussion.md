@@ -10,9 +10,9 @@ nav_order: 4
 This page will be updated with discussion worksheets and solutions throughout the semester.
 NOTE: The asynchronous discussion link will take you to video walkthroughs of discussion problems. However, they are from a previous semester so they will not always be the correct problems.
 
-**Discussion 1**{: .label .label-discussion } Welcome to Snap! Scavenger Hunt [worksheet](https://drive.google.com/file/d/1uJTkCdiCNF_rUUsnK4wv3eg9NhwaSwcA/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing) | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MK2wGnoWTKh0Vg8FEfJlvFz)
+**Discussion 1**{: .label .label-discussion } Welcome to Snap! Scavenger Hunt | [worksheet](https://drive.google.com/file/d/1uJTkCdiCNF_rUUsnK4wv3eg9NhwaSwcA/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing) | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MK2wGnoWTKh0Vg8FEfJlvFz)
 
-**Discussion 2**{: .label .label-discussion } Number Representation, Booleans, and Conditions [worksheet](https://drive.google.com/file/d/1klLzhoJV69Nt1vyhMciKMqyxZn89O3mf/view?usp=sharing) \| | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MIvW8lYOoODMcF4uMd3AfOQ)
+**Discussion 2**{: .label .label-discussion } Number Representation, Booleans, and Conditions | [worksheet](https://drive.google.com/file/d/1klLzhoJV69Nt1vyhMciKMqyxZn89O3mf/view?usp=sharing) | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MIvW8lYOoODMcF4uMd3AfOQ)
 
 <!-- **Discussion 3**{: .label .label-discussion } Domain and Range, HOFs, Scoping [worksheet](https://drive.google.com/file/d/1hG5RY7G7aaUvi9iL_f7HTXxcPkKqq6rx/view?usp=sharing) \| | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MKweAzb42I5sjEXz5oq-y_8)
 
