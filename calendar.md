@@ -89,7 +89,7 @@
     <tr>
       <th>Thur 1/27</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td> Reading Quiz 1 (in lab) </td> <!-- Readings -->
+      <td> RQ 1 (in lab) </td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_pair/2-conditionals-testing-su21.topic&course=cs10_fa21.html&novideo&noreading&noassignment">3. Conditionals and Reporters & Abstraction </a>(due 2/3)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -123,7 +123,7 @@
     <tr>
       <th>Wed 2/2 </th> <!-- Date -->
       <td>5. Algorithms</td> <!-- Lecture -->
-      <td>Reading Quiz 2 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 2 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release HW 2: Mastermind (due 2/15)</td> <!-- Assignment -->
@@ -131,7 +131,7 @@
     <tr>
       <th>Thur 2/3</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 2 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 2 (TTh Labs)</td> <!-- Readings -->
       <td>5. Algorithms (due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -207,7 +207,7 @@
     <tr>
       <th>Wed 2/16 </th> <!-- Date -->
       <td>7. Social Implications of Computing I</td> <!-- Lecture -->
-      <td>Reading Quiz 3 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 3 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Proj 1: 2048 (due 3/01)</td> <!-- Assignment -->
@@ -215,7 +215,7 @@
     <tr>
       <th>Thur 2/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 3 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 3 (TTh Labs)</td> <!-- Readings -->
       <td>8: Boards (Optional) (due 3/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -249,7 +249,7 @@
     <tr>
       <th>Wed 2/23 </th> <!-- Date -->
       <td>10. Recursion II (Fractals)</td> <!-- Lecture -->
-      <td>Reading Quiz 4 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 4 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -257,7 +257,7 @@
     <tr>
       <th>Thur 2/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 4 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 4 (TTh Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
@@ -291,7 +291,7 @@
     <tr>
       <th>Wed 3/02 </th> <!-- Date -->
       <td>12. Recursion III (Count Change)</td> <!-- Lecture -->
-      <td>Reading Quiz 5 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 5 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -299,7 +299,7 @@
     <tr>
       <th>Thur 3/03</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 5 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 5 (TTh Labs)</td> <!-- Readings -->
       <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Proj 2: Explore Post (due 3/16)</td> <!-- Assignment -->
@@ -333,7 +333,7 @@
     <tr>
       <th>Wed 3/09</th> <!-- Date -->
       <td>14. Programming Paradigms</td> <!-- Lecture -->
-      <td>Reading Quiz 6 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 6 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -341,7 +341,7 @@
     <tr>
       <th>Thur 3/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 6 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 6 (TTh Labs)</td> <!-- Readings -->
       <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -375,7 +375,7 @@
     <tr>
       <th>Wed 3/16</th> <!-- Date -->
       <td>15. Python I - Intro to Python</td> <!-- Lecture -->
-      <td>Reading Quiz 7 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 7 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Proj 2 due</td> <!-- Assignment -->
@@ -383,7 +383,7 @@
     <tr>
       <th>Thur 3/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 7 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 7 (TTh Labs)</td> <!-- Readings -->
       <td>12: Welcome to Python (due 3/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -459,7 +459,7 @@
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
       <td>17. Python III - OOP in Python</td> <!-- Lecture -->
-      <td>Reading Quiz 8 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 8 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -467,7 +467,7 @@
     <tr>
       <th>Thur 3/31</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 8 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 8 (TTh Labs)</td> <!-- Readings -->
       <td>Lab 14: OOP in Python (due 4/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -501,7 +501,7 @@
     <tr>
       <th>Wed 4/06</th> <!-- Date -->
       <td>19. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
-      <td>Reading Quiz 9 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 9 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Proj 3 Party</td> <!-- Assignment -->
@@ -509,7 +509,7 @@
     <tr>
       <th>Thur 4/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 9 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 9 (TTh Labs)</td> <!-- Readings -->
       <td>Proj 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Proposals Review</td> <!-- Assignment -->
@@ -543,7 +543,7 @@
     <tr>
       <th>Wed 4/13</th> <!-- Date -->
       <td>21. HCI</td> <!-- Lecture -->
-      <td>Reading Quiz 10 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 10 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -551,7 +551,7 @@
     <tr>
       <th>Thur 4/14</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 10 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 10 (TTh Labs)</td> <!-- Readings -->
       <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -585,7 +585,7 @@
     <tr>
       <th>Wed 4/20</th> <!-- Date -->
       <td>23. Limits of Computing</td> <!-- Lecture -->
-      <td>Reading Quiz 11 (MW Labs)</td> <!-- Readings -->
+      <td>RQ 11 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -593,7 +593,7 @@
     <tr>
       <th>Thur 4/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>Reading Quiz 11 (TTh Labs)</td> <!-- Readings -->
+      <td>RQ 11 (TTh Labs)</td> <!-- Readings -->
       <td>18: Debugging (due 4/28)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Proj Party</td> <!-- Assignment -->
