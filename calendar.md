@@ -52,7 +52,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">Snap! Scavenger Hunt </a><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1Oqh3i-895-GP-p6klVloZXfiVNY_v-rG/view?usp=sharing">Snap! Scavenger Hunt </a><a href="https://drive.google.com/file/d/1KjIGuhANJ-ptCXARWNvjBXvnr4RqAGCe/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
       <td><a href="https://www.gradescope.com/courses/354801/assignments/1779069">HW 0 due Sat 1/22</a><br></td>
     </tr>
     <!-- WEEK TWO------------------------------------------------------------ -->
@@ -99,7 +99,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td> <a href="https://drive.google.com/file/d/125svKGcs5LOVZUfkUW_zHYlTOgq6ef8U/view?usp=sharing">2. Number Rep, Booleans, Conditionals </a> <a href="https://drive.google.com/file/d/125svKGcs5LOVZUfkUW_zHYlTOgq6ef8U/view?usp=sharing">(solution)</a> </td> <!-- Discussion -->
+      <td> <a href="https://drive.google.com/file/d/125svKGcs5LOVZUfkUW_zHYlTOgq6ef8U/view?usp=sharing">2. Number Rep, Booleans, Conditionals </a> <a href="https://drive.google.com/file/d/153tYV9IdKeaKZ66BKcoY3zKEpOlXwN97/view?usp=sharing">(solution)</a> </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
