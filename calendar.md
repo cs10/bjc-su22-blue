@@ -107,7 +107,7 @@
       <td rowspan=5>3</td>
       <th>Mon 1/31</th> <!-- Date -->
       <td>4. Lists and Scoping</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td> <a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">2. Intro to Abstraction</a> </td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW 1 Party</td> <!-- Assignment -->
