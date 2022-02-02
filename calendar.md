@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <th>Wed 1/26 </th> <!-- Date -->
-      <td>3. Numbers and Abstraction <a href="https://youtu.be/eBG6zV0sNsc">(Recording)</a> </td> <!-- Lecture -->
+      <td>3. Numbers and Abstraction <a href="https://docs.google.com/presentation/d/1sRBKtc9NSWotpDlmrg78uWm6P5-j6px9QRJ2xE08JK0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/eBG6zV0sNsc">(Recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
