@@ -103,10 +103,11 @@
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THREE------------------------------------------------------------ -->
+     <!-- <a href="">(Slides)</a> | <a href="">(Self-Check)</a> -->
     <tr>
       <td rowspan=5>3</td>
       <th>Mon 1/31</th> <!-- Date -->
-      <td>4. Lists and Scoping</td> <!-- Lecture -->
+      <td>4. Lists and Scoping <a href="https://docs.google.com/presentation/d/1SVBoBH6d5RrtWq3e57tEe3SZumRdu7NB3_OjVlmKJgo/edit?usp=sharing">(Slides)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1820053/">(Self-Check)</a></td> <!-- Lecture -->
       <td> <a href="http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub">2. Intro to Abstraction</a> </td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=&novideo&noreading&noassignment">4. Lists & HOFs </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -122,7 +123,7 @@
     </tr>
     <tr>
       <th>Wed 2/2 </th> <!-- Date -->
-      <td>5. Algorithms</td> <!-- Lecture -->
+      <td>5. Lists & HOFs <a href="">(Slides)</a> | <a href="">(Self-Check)</a></td> <!-- Lecture -->
       <td>RQ 2 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
