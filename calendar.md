@@ -127,7 +127,10 @@
       <td>RQ 2 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release HW 2: Mastermind (due 2/15)</td> <!-- Assignment -->
+      <td>
+      <a href="/sp22/assignment?https://docs.google.com/document/d/1BDZ_WyPW9ngtn2zy2cMt8mfPQUmIYCOLQP1-hqVvjpc/editb">
+      release HW 2: Mastermind (due 2/16)
+      </a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/3</th> <!-- Date -->
@@ -203,7 +206,7 @@
       <td></td> <!-- Readings -->
       <td>7: Testing + Project 1 (due 2/22)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>HW 2 Party; HW 2 due</td> <!-- Assignment -->
+      <td>HW 2 Party</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 2/16 </th> <!-- Date -->
@@ -211,7 +214,7 @@
       <td>RQ 3 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Proj 1: 2048 (due 3/01)</td> <!-- Assignment -->
+      <td>HW2 due; release Proj 1: 2048 (due 3/01)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/17</th> <!-- Date -->
