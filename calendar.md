@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <th>Wed 2/2 </th> <!-- Date -->
-      <td>5. Lists & HOFs <a href="">(Slides)</a> | <a href="">(Self-Check)</a></td> <!-- Lecture -->
+      <td>5. Lists & HOFs <a href="">(Slides)</a> | <a href="https://youtu.be/yQb3qPy0IUg">(Recording)</a> | <a href="">(Self-Check)</a></td> <!-- Lecture -->
       <td>RQ 2 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
