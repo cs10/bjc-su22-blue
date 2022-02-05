@@ -128,7 +128,7 @@
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic&course=&novideo&noreading&noassignment">5. Algorithms </a>(due 2/10)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>
-      <a href="/sp22/assignment?https://docs.google.com/document/d/1BDZ_WyPW9ngtn2zy2cMt8mfPQUmIYCOLQP1-hqVvjpc/edit?usp=sharing">
+      <a href="https://docs.google.com/document/d/1BDZ_WyPW9ngtn2zy2cMt8mfPQUmIYCOLQP1-hqVvjpc/edit?usp=sharing">
       release HW 2: Mastermind (due 2/16)
       </a></td> <!-- Assignment -->
     </tr>
