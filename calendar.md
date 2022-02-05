@@ -142,7 +142,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1U2_mM6G4nsa6hj9weVHTh5NeDVMRT1Y6/view?usp=sharing">3. Domain and Range, HOFs & Scoping </a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1U2_mM6G4nsa6hj9weVHTh5NeDVMRT1Y6/view?usp=sharing">3. Domain and Range, HOFs & Scoping </a> <a href="https://drive.google.com/file/d/1cvIl4M42_mY-j8sJktCYZh1W2y_UaK2w/view?usp=sharing"> (solution) </a> </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOUR------------------------------------------------------------ -->
