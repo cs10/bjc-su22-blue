@@ -14,8 +14,8 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 2**{: .label .label-discussion } Number Representation, Booleans, and Conditions | [worksheet](https://drive.google.com/file/d/1klLzhoJV69Nt1vyhMciKMqyxZn89O3mf/view?usp=sharing) | [solutions](https://drive.google.com/file/d/153tYV9IdKeaKZ66BKcoY3zKEpOlXwN97/view?usp=sharing) | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MIvW8lYOoODMcF4uMd3AfOQ)
 
-**Discussion 3**{: .label .label-discussion } Domain and Range, HOFs, Scoping [worksheet](https://drive.google.com/file/d/1U2_mM6G4nsa6hj9weVHTh5NeDVMRT1Y6/view?usp=sharing) | <!-- | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MKweAzb42I5sjEXz5oq-y_8)
-<!-->
+**Discussion 3**{: .label .label-discussion } Domain and Range, HOFs, Scoping [worksheet](https://drive.google.com/file/d/1U2_mM6G4nsa6hj9weVHTh5NeDVMRT1Y6/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1cvIl4M42_mY-j8sJktCYZh1W2y_UaK2w/view?usp=sharing)
+<!-- | [Asynchronous discussion](https://www.youtube.com/playlist?list=PLFtj8IkGH5MKweAzb42I5sjEXz5oq-y_8)
 **Discussion 4**{: .label .label-discussion} Algorithms and Quest Recap [worksheet](https://drive.google.com/file/d/1UfHtqyvbWv8J7QugxI8X9wsc6b8RqGjv/view?usp=sharing) \| |  [Asynchronous discussion](https://youtube.com/playlist?list=PLFtj8IkGH5MIzyIqpYtI7bYzVBsGVawuo)
 
 **Discussion 5**{: .label .label-discussion} Algorithmic Complexity [worksheet](https://drive.google.com/file/d/1sG6rMepSVZO3YEaM90bfkuNzPvUfNC2O/view?usp=sharing) \| | [Asynchronous discussion](https://youtube.com/playlist?list=PLFtj8IkGH5MK-GN21qAEfvdzUPZX6EUSb)
