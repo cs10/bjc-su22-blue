@@ -152,7 +152,7 @@
     <tr>
       <td rowspan=5>4</td>
       <th>Mon 2/7</th> <!-- Date -->
-      <td>6. Algorithmic Complexity</td> <!-- Lecture -->
+      <td>6.Q&A / Review for Quest <a href="https://youtu.be/9O157Mp_Sb0">(Recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
