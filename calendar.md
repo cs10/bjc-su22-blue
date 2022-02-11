@@ -187,7 +187,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>4. Algorithms</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1uYVlRPLmk6aRTzuu7AQWqkzKgcsCKsU5/view?usp=sharing"> 4. Algorithms</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIVE ------------------------------------------------------------ -->
