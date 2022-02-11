@@ -152,7 +152,7 @@
     <tr>
       <td rowspan=5>4</td>
       <th>Mon 2/7</th> <!-- Date -->
-      <td>6.Q&A / Review for Quest <a href="https://youtu.be/9O157Mp_Sb0">(Recording)</a> </td> <!-- Lecture -->
+      <td>6.Q&A / Review for Quest <a href="https://docs.google.com/presentation/d/1nCAzucXOQewr-X2YJ-DG6LvkjdTstq3cSMdxvkCxw2w/edit#slide=id.g112f63ae891_0_0">(Slides)</a> <a href="https://youtu.be/9O157Mp_Sb0">(Recording)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
