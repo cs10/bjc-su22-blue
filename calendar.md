@@ -168,7 +168,7 @@
     </tr>
     <tr>
       <th>Wed 2/9 </th> <!-- Date -->
-      <td>7. Social Implications of Computing I</td> <!-- Lecture -->
+      <td>7. Algorithms </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">6: Algorithmic Complexity </a> (due 2/16)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
