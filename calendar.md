@@ -238,7 +238,7 @@
       <th>Mon 2/21</th> <!-- Date -->
       <td>Holiday</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>NO LAB</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -246,7 +246,7 @@
       <th>Tue 2/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>9: Trees and Fractals (due 3/01)</td> <!-- Lab -->
+      <td>NO LAB</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -254,7 +254,7 @@
       <th>Wed 2/23 </th> <!-- Date -->
       <td>10. Recursion II (Fractals)</td> <!-- Lecture -->
       <td>RQ 4 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>9: Trees and Fractals</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -262,7 +262,7 @@
       <th>Thur 2/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 4 (TTh Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>9: Trees and Fractals</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
     </tr>
