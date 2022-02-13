@@ -178,7 +178,7 @@
       <th>Thur 2/10</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=cs10_fa21.html&novideo&noreading&noassignment">6: Algorithmic Complexity (due 2/17)</a></td> <!-- Lab -->
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=cs10_fa21.html&novideo&noreading&noassignment">6: Algorithmic Complexity </a>(due 2/17)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -196,7 +196,7 @@
       <th>Mon 2/14</th> <!-- Date -->
       <td>8. Testing + 2048</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7: Testing + Project 1</a> (due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -204,7 +204,7 @@
       <th>Tue 2/15</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>7: Testing + Project 1 (due 2/22)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7: Testing + Project 1</a> (due 2/24)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>HW 2 Party</td> <!-- Assignment -->
     </tr>
@@ -212,7 +212,7 @@
       <th>Wed 2/16 </th> <!-- Date -->
       <td>7. Social Implications of Computing I</td> <!-- Lecture -->
       <td>RQ 3 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>HW2 due; release Proj 1: 2048 (due 3/01)</td> <!-- Assignment -->
     </tr>
@@ -220,7 +220,7 @@
       <th>Thur 2/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 3 (TTh Labs)</td> <!-- Readings -->
-      <td>8: Boards (Optional) (due 3/24)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/24)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -243,7 +243,7 @@
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
-      <th>Tue 2/15</th> <!-- Date -->
+      <th>Tue 2/22</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td>9: Trees and Fractals (due 3/01)</td> <!-- Lab -->

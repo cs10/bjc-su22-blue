@@ -59,14 +59,23 @@ labs:
       - What is the difference between “Worst-Case” and “Best Case” Runtimes when running the Are the numbers of (LIST) distinct block? Why?
       - What happened with the time it took for your computer to counter up the numbers between 1 and x when you started doubling the numbers? Tripling the numbers? What do you think would happen with the time I multiplied your top number by 8?
       - What is an example of an algorithm that we have seen that has an exponential runtime?
-  # - lab_name:
-  #   lab_no: 7
-  #   topic_file:
-  #   questions:
-  # - lab_name:
-  #   lab_no: 8
-  #   topic_file:
-  #   questions:
+  - lab_name: Testing + Project 1
+    lab_no: 7
+    topic_file: berkeley_bjc/2048-testing/2048.topic
+    questions:
+      - How does the test block work? What is its domain and range?
+      - Show us the output of your test block on the merge column. Explain why this output makes sense.
+      - How will writing tests help you for the 2048 assignment?
+      - How do merge up and merge column work? What is the domain/range of each block?
+      - What is the domain and range of the update display block?
+  - lab_name: Boards (Optional)
+    lab_no: 8
+    topic_file: berkeley_bjc/lists/tic-tac-toe.topic
+    questions:
+      - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
+      - Show your working board game by moving the sprite around the board.
+      - Explain an advantage of using an underlying board structure when designing a game.
+
   # - lab_name:
   #   lab_no: 9
   #   topic_file:
