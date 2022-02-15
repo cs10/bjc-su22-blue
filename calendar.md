@@ -194,7 +194,7 @@
     <tr>
       <td rowspan=5>5</td>
       <th>Mon 2/14</th> <!-- Date -->
-      <td>8. Testing + 2048</td> <!-- Lecture -->
+      <td><a href="https://youtu.be/y-J_30LIuRw"> 8. Testing + 2048></a></td> <!-- Lecture -->
       <td> <a href="https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm">3a. What is an Algorithm?</a> <br> <a href="https://www.ted.com/talks/kevin_slavin_how_algorithms_shape_our_world/up-next">3b. How Algorithms Shape Our World</a> <br> <a href="https://news.ycombinator.com/item?id=8630311">3c. Algorithms are Great and All, But They Can Also Ruin Lives</a> </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=&novideo&noreading&noassignment">7: Testing + Project 1</a> (due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
