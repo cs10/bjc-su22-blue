@@ -20,18 +20,27 @@ const COUNTER = {
 let FIRST_DAY = dayjs('2022-01-16');
 let LAST_DAY = dayjs('2022-05-14');
 
+// TODO: Model out the schedule object for 1 day.
+// TODO: Readings() should be 1 obj with multiple links.
+// TODO: What about `additional` stuff? 2 Due dates in 1 day?
+
 function createSchedule(startDate, endDate) {
+  if (startDate.day() !== 0) {
+    throw new Error('Start Date must start on a Sunday');
+  }
   let schedule = {};
   let index = startDate;
   let stop = endDate.add(1, 'day');
-  if (startDate.day() !== 1) {
-    throw new Error('Start Date must start on a monday');
-  }
   while (index.isBefore(stop)) {
     // Skip weekends
     if (index.day() > 0 && index.day() < 6) {
-      schedule[index.format('dd M/D')] = {
-        date: index
+      schedule[index.format('YYYY-MM-DD')] = {
+        date: index,
+        lecture: [],
+        lab: [],
+        reading: [],
+        discussion: [],
+        assignment: []
       };
     }
     index = index.add(1, 'day');
@@ -41,13 +50,15 @@ function createSchedule(startDate, endDate) {
 
 
 function addToSchedule(date, item) {
-  key = date.format('dd M/D');
+  key = date.format('YYYY-MM-DD');
   if (!CS10_SCHEDULE[key]) {
+    console.log('ERROR, what? Missing date...')
     CS10_SCHEDULE[key] = {}
   }
   if (CS10_SCHEDULE[key][item.type]) {
     CS10_SCHEDULE[key][item.type].push(item);
   } else {
+    console.log('This shouldnt happen...')
     CS10_SCHEDULE[key][item.type] = [item];
   }
   if (item.title == SKIPPED_ITEM) {
@@ -72,7 +83,10 @@ function Assignment(title, release_date, spec_url, due_date, submission_url, add
   let days = due_date.diff(release_date, 'day');
   let assignment = {
     title: `${COUNTER.homework}: ${title}`,
-    date: release_date, url: spec_url, due_date, additional, days, submission_url, type
+    type: 'assignment',
+    classes: [type],
+    date: release_date, url: spec_url,
+    due_date, additional, days, submission_url
   }
   COUNTER.homework += 1;
   addToSchedule(release_date, assignment);
@@ -158,6 +172,8 @@ function weekNumber(date, startDate) {
 }
 
 function renderIndividualItem(item) {
+  console.log('Render Indiv.')
+  if (!item) { return ''; }
   if (item.content) {
     return item.content;
   }
@@ -195,22 +211,24 @@ const TYPE_ORDER = [
   'reading',
   'lab',
   'discussion',
-  'homework'
+  'assignment'
 ];
 
 function renderSchedule(schedule, target) {
   let scheduleTable = $(target);
-  let currentDate = startDate;
+  let currentDate = FIRST_DAY;
   let now = dayjs();
   let row;
-  while (currentDate.isBefore(endDate)) {
+  console.log('RENDER SCHEDULE: ', schedule)
+  while (currentDate.isBefore(LAST_DAY)) {
     let dayOfWeek = currentDate.day();
     if (dayOfWeek == SATURDAY || dayOfWeek == SUNDAY) {
       currentDate = currentDate.add(1, 'day');
       continue;
     }
-    let current = schedule[currentDate];
-    let week = weekNumber(currentDate, startDate);
+    // TODO: Getting a value by date object needs to be easier.
+    let current = schedule[currentDate.format('YYYY-MM-DD')];
+    let week = weekNumber(currentDate, FIRST_DAY);
     let rowClasses = week % 2 == 0 ? 'even' : 'odd';
     if (currentDate.isSame(now, 'day')) {
       rowClasses += ' today'
@@ -218,12 +236,13 @@ function renderSchedule(schedule, target) {
     row = $(`<tr class="${rowClasses}">`);
     console.log(row);
     if (dayOfWeek == MONDAY) {
-      row.append(`<td rowspan=5 clas="">${week}</td>`);
+      row.append(`<td rowspan=5 class="">${week}</td>`);
     }
     row.append(`<td>${currentDate.format('dd M/D')}</td>`);
     TYPE_ORDER.forEach(type => {
-      if (!current && !current[type]) {
-        row.append(`<td></td>`);
+      console.log('Adding cell for type: ', type, current)
+      if (!current || !current[type] || current[type].length === 0) {
+        row.append(`<td class="schedule-${type}-none"></td>`);
       } else {
         row.append(`<td class="schedule-${type}">${render(current[type])}</td>`);
       }
@@ -262,5 +281,5 @@ console.log('JS Here')
 window.addEventListener('load', () => {
   console.log('window loaded.')
   dayjs.extend(dayjs_plugin_weekOfYear);
-  // renderSchedule(CS10_SCHEDULE, '.schedule-table');
+  renderSchedule(CS10_SCHEDULE, '.schedule-table');
 });
