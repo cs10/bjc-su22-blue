@@ -25,14 +25,5 @@ nav_exclude: true
     </tr>
   </thead>
   <tbody class="js-scheduleContent">
-    <tr>
-      <td rowspan=5>1</td> <!-- Week Number -->
-      <th>Mon 1/17</th> <!-- Date -->
-      <td>No Class</td> <!-- Lecture -->
-      <td>No Class</td> <!-- Readings -->
-      <td>No Class</td> <!-- Lab -->
-      <td>No Class</td> <!-- Discussion -->
-      <td>No Class</td> <!-- Assignment -->
-    </tr>
   </tbody>
 </table>
