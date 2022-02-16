@@ -8,19 +8,19 @@ description: A list of all readings.
 
 This page will be updated with links to readings throughout the semester.
 
-**Week 2 Reading**{: .label .label-reading }
+**Week 2 Reading (for RQ 1)**{: .label .label-reading }
 
 - Required: [Learning to Code](https://www.youtube.com/watch?v=dU1xS07N-FA)
 - Reading Quiz Question: Why is learning how to code important? Are you convinced about the importance of computer science in the world today? Include at least one point made in the video, 'Code Stars’. (Expected length: 2 - 4 sentences).
 
 
-**Week 3 Reading**{: .label .label-reading}
+**Week 3 Reading (for RQ 2)**{: .label .label-reading}
 
 - Required: [Introduction to Abstraction](http://cs10.org/fa17/assign.html?//docs.google.com/document/d/1PZJ_LYYWRYu12cTbBKF9IyY4BqEG-BibgisBoQn9BpY/pub)
 - Reading Quiz Question: Why is a car a good example of abstraction? Using this example, give one reason why abstraction is helpful and then also give one reason why abstraction can do more harm than good. Finally, what is an example of abstraction in your daily life? (Expected length: 2 - 4 sentences).
 
 
-**Week 4 Reading**{: .label .label-reading}
+**Week 5 Reading (for RQ 3)**{: .label .label-reading}
 
 - Required:
   - [What is an Algorithm?](https://www.sciencenewsforstudents.org/article/explainer-what-is-an-algorithm)
@@ -30,6 +30,7 @@ This page will be updated with links to readings throughout the semester.
   - [Hacker News: Comments on "Algorithms are Great and All, But They Can Also Ruin Lives"]()
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
 
+<!--
 **Week 5 Reading**{: .label .label-reading }
 
 - Required:
@@ -82,4 +83,4 @@ This page will be updated with links to readings throughout the semester.
 
 **Week 13 Reading**{: .label .label-reading }
 
-  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)-->
