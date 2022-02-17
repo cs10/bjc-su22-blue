@@ -210,7 +210,7 @@
     </tr>
     <tr>
       <th>Wed 2/16 </th> <!-- Date -->
-      <td>7. Social Implications of Computing I</td> <!-- Lecture -->
+      <td>9. Social Implications of Computing I <a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
       <td>RQ 3 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
