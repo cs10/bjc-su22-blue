@@ -229,7 +229,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>5. Algorithmic Complexity</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1Bp95TI0rfoe8130YZTzZMTmoLfeAcuM5/view?usp=sharing">5. Algorithmic Complexity</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIX ------------------------------------------------------------ -->
