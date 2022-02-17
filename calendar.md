@@ -168,7 +168,7 @@
     </tr>
     <tr>
       <th>Wed 2/9 </th> <!-- Date -->
-      <td><a href="https://youtu.be/eGXZWEnp-jg">7. Algorithms </a> </td> <!-- Lecture -->
+      <td> 7. Algorithms <a href="https://youtu.be/eGXZWEnp-jg">(recording)</a> | <a href="https://docs.google.com/presentation/d/1_LIgjNdVctuyn2IBkEHs-gayYisfRqRkRSiNWIDM7i8/edit?usp=sharing"> (slides)</a> </td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic&course=&novideo&noreading&noassignment">6: Algorithmic Complexity </a> (due 2/16)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
