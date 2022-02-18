@@ -214,7 +214,7 @@
       <td>RQ 3 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>HW2 due; release Proj 1: 2048 (due 3/01)</td> <!-- Assignment -->
+      <td>HW2 due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 2/17</th> <!-- Date -->
@@ -222,7 +222,7 @@
       <td>RQ 3 (TTh Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/24)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/1rxK9uiaZsY5cMApe0KWiYLd1r1-uLV7wz3Fmb78LLDU/edit">release Proj 1: 2048 (due 3/02)</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 2/18</th> <!-- Date -->
@@ -290,7 +290,7 @@
       <td></td> <!-- Readings -->
       <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>PROJ 1 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/02 </th> <!-- Date -->
@@ -298,7 +298,7 @@
       <td>RQ 5 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>PROJ 1 due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 3/03</th> <!-- Date -->
