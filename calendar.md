@@ -280,7 +280,7 @@
       <th>Mon 2/28</th> <!-- Date -->
       <td>11. Social Implications of Computing II - Global Impact of Computing</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
     </tr>
