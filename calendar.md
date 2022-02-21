@@ -237,7 +237,7 @@
       <td rowspan=5>6</td>
       <th>Mon 2/21</th> <!-- Date -->
       <td>Holiday</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td> <a href="http://cs10.org/sp19/resources/readings/btb/chapter1.pdf">4a. Blown to Bits: Chapter 1</a> <a href="https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/">4b. Big O Notation — Simply explained</a> </td> <!-- Readings -->
       <td>NO LAB</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

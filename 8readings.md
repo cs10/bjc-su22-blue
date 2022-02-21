@@ -30,6 +30,14 @@ This page will be updated with links to readings throughout the semester.
   - [Hacker News: Comments on "Algorithms are Great and All, But They Can Also Ruin Lives"]()
   - [The 10 Algorithms That Dominate Our World](http://io9.gizmodo.com/the-10-algorithms-that-dominate-our-world-1580110464)
 
+
+**Week 6 Reading (for RQ 4)**{: .label .label-reading }
+
+- Required:
+  - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
+  - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
+
+
 <!--
 **Week 5 Reading**{: .label .label-reading }
 
@@ -39,12 +47,6 @@ This page will be updated with links to readings throughout the semester.
 - Optional:
   - [The End of Moore's Law](https://www.nytimes.com/2015/09/27/technology/smaller-faster-cheaper-over-the-future-of-computer-chips.html?_r=0)
   - [UN Report: Time to seize opportunity, tackle challenge of e-waste](https://www.unep.org/news-and-stories/press-release/un-report-time-seize-opportunity-tackle-challenge-e-waste)
-
-**Week 6 Reading**{: .label .label-reading }
-
-- Required:
-  - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
-  - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
 
 **Week 7 Reading**{: .label .label-reading }
 
