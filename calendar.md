@@ -254,7 +254,7 @@
       <th>Wed 2/23 </th> <!-- Date -->
       <td>10. Recursion II (Fractals)</td> <!-- Lecture -->
       <td>RQ 4 (MW Labs)</td> <!-- Readings -->
-      <td>9: Trees and Fractals</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9: Trees and Fractals</a>(due 3/02)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -262,7 +262,7 @@
       <th>Thur 2/24</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 4 (TTh Labs)</td> <!-- Readings -->
-      <td>9: Trees and Fractals</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9: Trees and Fractals</a>(due 3/03)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
     </tr>
@@ -296,7 +296,7 @@
       <th>Wed 3/02 </th> <!-- Date -->
       <td>12. Recursion III (Count Change)</td> <!-- Lecture -->
       <td>RQ 5 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 due</td> <!-- Assignment -->
     </tr>

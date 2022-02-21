@@ -75,11 +75,15 @@ labs:
       - Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
       - Show your working board game by moving the sprite around the board.
       - Explain an advantage of using an underlying board structure when designing a game.
-
-  # - lab_name:
-  #   lab_no: 9
-  #   topic_file:
-  #   questions:
+  - lab_name: Trees and Fractals
+    lab_no: 9
+    topic_file: berkeley_bjc/recur/recursion-trees-fractals.topic
+    questions:
+      - Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+      - Please show me your “crazy-tree” block.
+      - Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+      - What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+      - Please show me your “snowflake” block.
   # - lab_name:
   #   lab_no: 10
   #   topic_file:
@@ -142,24 +146,6 @@ On this page, you will find a list of check-off questions for each lab.
 {% endfor %}
 
 <!-- 
- **Lab 7**{: .label .label-lab } [Testing & Project 3](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- How does the test block work? What is its domain and range?
-- Show us the output of your test block on the merge column. Explain why this output makes sense.
-- How will writing tests help you for the 2048 assignment?
-- How do merge up and merge column work? What is the domain/range of each block?
-- What is the domain and range of the update display block?
-
- **Lab 8**{: .label .label-lab } [Boards](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
-- Show your working board game by moving the sprite around the board.
-- Explain an advantage of using an underlying board structure when designing a game.
-
- **Lab 9**{: .label .label-lab } [Trees and Fractals](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-- Please show me your “crazy-tree” block.
-- Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-- What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-- Please show me your “snowflake” block.
 
 **Lab 10**{: .label .label-lab } [Recursive Reporters](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
