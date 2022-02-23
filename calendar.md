@@ -210,7 +210,7 @@
     </tr>
     <tr>
       <th>Wed 2/16 </th> <!-- Date -->
-      <td>9. Social Implications of Computing I <a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
+      <td>9. Testing & 2048<a href="https://youtu.be/ERiqnS-lb1I">(recording)</a> </td> <!-- Lecture -->
       <td>RQ 3 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/23)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -220,7 +220,7 @@
       <th>Thur 2/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 3 (TTh Labs)</td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/24)</td> <!-- Lab -->      
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">8: Boards (Optional)</a>(due 2/24)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/document/d/1rxK9uiaZsY5cMApe0KWiYLd1r1-uLV7wz3Fmb78LLDU/edit">release Proj 1: 2048 (due 3/02)</a></td> <!-- Assignment -->
     </tr>
@@ -237,7 +237,7 @@
       <td rowspan=5>6</td>
       <th>Mon 2/21</th> <!-- Date -->
       <td>Holiday</td> <!-- Lecture -->
-      <td> <a href="http://cs10.org/sp19/resources/readings/btb/chapter1.pdf">4a. Blown to Bits: Chapter 1</a> <a href="https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/">4b. Big O Notation — Simply explained</a> </td> <!-- Readings -->
+      <td><a href="http://cs10.org/sp19/resources/readings/btb/chapter1.pdf">4a. Blown to Bits: Chapter 1</a> <a href="https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/">4b. Big O Notation — Simply explained</a> </td> <!-- Readings -->
       <td>NO LAB</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -252,7 +252,8 @@
     </tr>
     <tr>
       <th>Wed 2/23 </th> <!-- Date -->
-      <td>10. Recursion II (Fractals)</td> <!-- Lecture -->
+      <td>10. Recursion I (Fractals) <a href="https://docs.google.com/presentation/d/1ic-AiLE60V8Amp8ewVwEncbKbi5cs_pslOgDOHHHL_M/edit?usp=sharing">(Slides)</a> | <a href="">(Recording)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1883561">(Self-Check)</a>
+      </td> <!-- Lecture -->
       <td>RQ 4 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9: Trees and Fractals</a>(due 3/02)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
