@@ -252,7 +252,7 @@
     </tr>
     <tr>
       <th>Wed 2/23 </th> <!-- Date -->
-      <td>10. Recursion I (Fractals) <a href="https://docs.google.com/presentation/d/1ic-AiLE60V8Amp8ewVwEncbKbi5cs_pslOgDOHHHL_M/edit?usp=sharing">(Slides)</a> | <a href="">(Recording)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1883561">(Self-Check)</a>
+      <td>10. Recursion I (Fractals) <a href="https://docs.google.com/presentation/d/1ic-AiLE60V8Amp8ewVwEncbKbi5cs_pslOgDOHHHL_M/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/Mqxlg-Rt0FA">(Recording)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1883561">(Self-Check)</a>
       </td> <!-- Lecture -->
       <td>RQ 4 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9: Trees and Fractals</a>(due 3/02)</td> <!-- Lab -->
