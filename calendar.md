@@ -272,7 +272,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>6. Recursion I</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
