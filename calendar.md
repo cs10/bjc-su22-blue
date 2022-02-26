@@ -272,7 +272,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a><a href="https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
