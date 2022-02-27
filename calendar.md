@@ -280,7 +280,7 @@
       <th>Mon 2/28</th> <!-- Date -->
       <td>11. Social Implications of Computing II - Global Impact of Computing</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
     </tr>
@@ -288,7 +288,7 @@
       <th>Tue 3/01</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/08)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
