@@ -38,6 +38,11 @@ This page will be updated with links to readings throughout the semester.
   - [Blown to Bits: Chapter 1](http://cs10.org/sp19/resources/readings/btb/chapter1.pdf)
   - [Big O Notation — Simply explained](https://www.freecodecamp.org/news/big-o-notation-simply-explained-with-illustrations-and-video-87d5a71c0174/)
 
+**Week 7 Reading (for RQ 5)**{: .label .label-reading }
+
+- Required:
+  - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4&ab_channel=TED)
+
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
