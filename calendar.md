@@ -295,7 +295,7 @@
     </tr>
     <tr>
       <th>Wed 3/02 </th> <!-- Date -->
-      <td>12. Recursion III (Count Change)</td> <!-- Lecture -->
+      <td>12. Recursion III (Count Change) <a href="https://youtu.be/xkS039NGBXg">(Recording)</a></td> <!-- Lecture -->
       <td>RQ 5 (MW Labs)</td> <!-- Readings -->
       <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
