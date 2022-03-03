@@ -21,3 +21,5 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 **Discussion 5**{: .label .label-discussion } Algorithmic Complexity | [worksheet](https://drive.google.com/file/d/1Bp95TI0rfoe8130YZTzZMTmoLfeAcuM5/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1Dt9OUBqbC6bg-7wCRO9hQFLodeZv-4dv/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/1y-OWV7sT5FDijsZWNYnkA5bliJkrX64e?usp=sharing)
 
 **Discussion 6**{: .label .label-discussion } Intro to Recursion | [worksheet](https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing) | [solutions](https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing) | [section recording] | [walkthrough videos](https://drive.google.com/drive/folders/10URH3Od0V-AtaqOKYLzX1zECqLJoRA9L?usp=sharing)
+
+**Discussion 7**{: .label .label-discussion } Intro to Recursion | [worksheet](https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing)
