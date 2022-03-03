@@ -279,7 +279,7 @@
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 2/28</th> <!-- Date -->
-      <td><a href="https://youtu.be/QmUPJv2F7wU">11. Social Implications of Computing II - Global Impact of Computing</a></td> <!-- Lecture -->
+      <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
       <td> <a href="https://www.youtube.com/watch?v=t7Xr3AsBEK4&ab_channel=TED"> 5. Connected, but Alone? (video) </a>  </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
