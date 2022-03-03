@@ -314,7 +314,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>7. Recursion II</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
