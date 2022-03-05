@@ -307,7 +307,7 @@
       <td>RQ 5 (TTh Labs)</td> <!-- Readings -->
       <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Proj 2: Explore Post (due 3/16)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 3/04</th> <!-- Date -->
@@ -315,7 +315,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/1PkcC5cg2SMlvOBVEVkofm-FOBLeGIyfe_azUUbrbMho/edit?usp=sharing">release Proj 2: Explore Post (due 3/16)</a></td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
     <tr>
