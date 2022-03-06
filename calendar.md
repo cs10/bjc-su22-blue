@@ -314,7 +314,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a> <a href="https://drive.google.com/file/d/16pVU8R-UBUMnn5c2uecx2WSJbmnfSNWm/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
       <td><a href="https://docs.google.com/document/d/1PkcC5cg2SMlvOBVEVkofm-FOBLeGIyfe_azUUbrbMho/edit?usp=sharing">release Proj 2: Explore Post (due 3/16)</a></td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
