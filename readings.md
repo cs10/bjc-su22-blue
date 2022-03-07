@@ -43,6 +43,12 @@ This page will be updated with links to readings throughout the semester.
 - Required:
   - [Connected, but alone?](https://www.youtube.com/watch?v=t7Xr3AsBEK4&ab_channel=TED)
 
+**Week 8 Reading (for RQ 6)**{: .label .label-reading }
+
+- Required:
+  - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1)
+
+
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
