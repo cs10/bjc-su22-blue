@@ -323,7 +323,7 @@
       <th>Mon 3/07</th> <!-- Date -->
       <td>13. Procedures as Data - Higher Order Procedures</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -331,7 +331,7 @@
       <th>Tue 3/08</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>11: Functions as Data, HOFs (due 3/17)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/17)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -339,7 +339,7 @@
       <th>Wed 3/09</th> <!-- Date -->
       <td>14. Programming Paradigms</td> <!-- Lecture -->
       <td>RQ 6 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
