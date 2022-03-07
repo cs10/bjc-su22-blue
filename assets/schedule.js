@@ -289,7 +289,13 @@ Homework('Introduce Yourself', dayjs('2022-01-19'), {
   due_date: dayjs('2022-01-22')
 });
 
+// Week 2:
 
+// Week 3:
+
+// Week 4:
+
+// Week 5:
 
 
 window.addEventListener('load', () => {
