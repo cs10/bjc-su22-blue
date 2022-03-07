@@ -252,7 +252,7 @@
     </tr>
     <tr>
       <th>Wed 2/23 </th> <!-- Date -->
-      <td>10. Recursion I (Fractals) <a href="https://docs.google.com/presentation/d/1ic-AiLE60V8Amp8ewVwEncbKbi5cs_pslOgDOHHHL_M/edit?usp=sharing">(Slides)</a> | <a href="">(Recording)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1883561">(Self-Check)</a>
+      <td>10. Recursion I (Fractals) <a href="https://docs.google.com/presentation/d/1ic-AiLE60V8Amp8ewVwEncbKbi5cs_pslOgDOHHHL_M/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/Mqxlg-Rt0FA">(Recording)</a> | <a href="https://www.gradescope.com/courses/354801/assignments/1883561">(Self-Check)</a>
       </td> <!-- Lecture -->
       <td>RQ 4 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">9: Trees and Fractals</a>(due 3/02)</td> <!-- Lab -->
@@ -272,16 +272,16 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>6. Recursion I</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/12bZHY-gG_ThpvvLZIvQADUczMtPN_aQV/view?usp=sharing">6. Recursion I</a><a href="https://drive.google.com/file/d/1ayqkvSAeX44FAVjtrfeqsqwqNX1hJjN-/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SEVEN ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>7</td>
       <th>Mon 2/28</th> <!-- Date -->
-      <td>11. Social Implications of Computing II - Global Impact of Computing</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
+      <td>11. Social Implications of Computing II - Global Impact of Computing <a href="https://docs.google.com/document/d/1fMv7_b1DNhTJmgr9gyQaHV3VWMHOHI5g9PcY39SYuLQ/edit?usp=sharing">(Notes)</a> | <a href="https://docs.google.com/presentation/d/1cK7SXNFQOaBeCs9dJBB8DsadZZMyDwocS17LVkIWNV0/edit?usp=sharing">(Slides)</a> | <a href="https://youtu.be/QmUPJv2F7wU">(Recording)</a></td> <!-- Lecture -->
+      <td> <a href="https://www.youtube.com/watch?v=t7Xr3AsBEK4&ab_channel=TED"> 5. Connected, but Alone? (video) </a>  </td> <!-- Readings -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>PROJ 1 Party</td> <!-- Assignment -->
     </tr>
@@ -289,13 +289,13 @@
       <th>Tue 3/01</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>10: Recursive Reporters (due 3/08)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">10: Recursive Reporters</a> (due 3/08)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/02 </th> <!-- Date -->
-      <td>12. Recursion III (Count Change)</td> <!-- Lecture -->
+      <td>12. Recursion II (Count Change) <a href="https://docs.google.com/presentation/d/1tbHqA60a9Aa_Ts7B1hkr6byI0n4kPh7xq6H72BMbVLk/edit?usp=sharing"> (slides) </a> | <a href="https://youtu.be/xkS039NGBXg">(Recording)</a></td> <!-- Lecture -->
       <td>RQ 5 (MW Labs)</td> <!-- Readings -->
       <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -307,23 +307,23 @@
       <td>RQ 5 (TTh Labs)</td> <!-- Readings -->
       <td>Proj 1 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Proj 2: Explore Post (due 3/16)</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 3/04</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>7. Recursion II</td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing">7. Recursion II</a> <a href="https://drive.google.com/file/d/16pVU8R-UBUMnn5c2uecx2WSJbmnfSNWm/view?usp=sharing">(solution)</a></td> <!-- Discussion -->
+      <td><a href="https://docs.google.com/document/d/1PkcC5cg2SMlvOBVEVkofm-FOBLeGIyfe_azUUbrbMho/edit?usp=sharing">release Proj 2: Explore Post (due 3/16)</a></td> <!-- Assignment -->
     </tr>
     <!-- WEEK EIGHT ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>8</td>
       <th>Mon 3/07</th> <!-- Date -->
       <td>13. Procedures as Data - Higher Order Procedures</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td> <a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1"> 6. How app developers are keeping us addicted to our phones </a>  </td> <!-- Readings -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -331,7 +331,7 @@
       <th>Tue 3/08</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>11: Functions as Data, HOFs (due 3/17)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/17)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -339,7 +339,7 @@
       <th>Wed 3/09</th> <!-- Date -->
       <td>14. Programming Paradigms</td> <!-- Lecture -->
       <td>RQ 6 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
