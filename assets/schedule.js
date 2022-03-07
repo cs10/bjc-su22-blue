@@ -56,10 +56,8 @@ function addToSchedule(date, item, type) {
 
 function Lecture(title, release_date, {url, gradescope, recording, options}={}) {
   if (title.slice(0, 3) === 'No ') {
-    addToSchedule(date, { type: 'lecture', title: 'No Class', date: release_date, classes: 'no-class'});
-    TYPE_ORDER.filter(key => key !== 'lecture').forEach(type => {
-
-    })
+    addToSchedule(release_date, { type: 'lecture', title: 'No Class', date: release_date, classes: 'no-class'});
+    // TYPE_ORDER.filter(key => key !== 'lecture').forEach(type => {});
   }
   let links = {
     'Slides': slides(url),
