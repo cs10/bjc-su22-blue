@@ -321,7 +321,7 @@
     <tr>
       <td rowspan=5>8</td>
       <th>Mon 3/07</th> <!-- Date -->
-      <td>13. Procedures as Data - Higher Order Procedures</td> <!-- Lecture -->
+      <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a></td> <!-- Lecture -->
       <td> <a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1"> 6. How app developers are keeping us addicted to our phones </a>  </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
