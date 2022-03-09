@@ -448,7 +448,7 @@
       <td rowspan=5>11</td>
       <th>Mon 3/28</th> <!-- Date -->
       <td>16. Python II - Built-in Types, Data Structures</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
