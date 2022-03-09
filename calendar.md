@@ -364,7 +364,7 @@
       <td rowspan=5>9</td>
       <th>Mon 3/14</th> <!-- Date -->
       <td>MIDTERM</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
