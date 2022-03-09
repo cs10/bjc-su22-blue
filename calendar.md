@@ -321,7 +321,7 @@
     <tr>
       <td rowspan=5>8</td>
       <th>Mon 3/07</th> <!-- Date -->
-      <td>13. Procedures as Data - Higher Order Procedures</td> <!-- Lecture -->
+      <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a> | <a href="https://docs.google.com/presentation/d/1Pq6FlYlbSAn5rQZ9KY5aS-wNsqSnfcnzbc4UGL2TOGU/edit?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td> <a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1"> 6. How app developers are keeping us addicted to our phones </a>  </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->      
       <td></td> <!-- Discussion -->
@@ -364,7 +364,7 @@
       <td rowspan=5>9</td>
       <th>Mon 3/14</th> <!-- Date -->
       <td>MIDTERM</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -448,7 +448,7 @@
       <td rowspan=5>11</td>
       <th>Mon 3/28</th> <!-- Date -->
       <td>16. Python II - Built-in Types, Data Structures</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->

@@ -48,7 +48,14 @@ This page will be updated with links to readings throughout the semester.
 - Required:
   - [These are the sneaky ways apps like Instagram, Facebook, Tinder lure you in and get you 'addicted'](https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1)
 
+**Week 9 Reading (for RQ 7)**{: .label .label-reading }
+- Required:
+  - [Humans Need Not Apply](https://www.youtube.com/watch?v=7Pq-S557XQU)
 
+**Week 11 Reading (for RQ 8)**{: .label .label-reading }
+
+- Required:
+  - [Why Python is a Great First Language](https://blog.trinket.io/why-python/)
 
 <!--
 **Week 5 Reading**{: .label .label-reading }
