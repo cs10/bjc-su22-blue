@@ -356,7 +356,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a></td> <!-- Discussion -->
       <td>Midterm Review Session</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE ------------------------------------------------------------ -->
