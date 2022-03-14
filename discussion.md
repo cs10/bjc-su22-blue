@@ -24,4 +24,4 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 
 **Discussion 7**{: .label .label-discussion } Intro to Recursion | [worksheet](https://drive.google.com/file/d/1Qfo2qu0hnSt7dUyihXDUhiogcaZNfqM8/view?usp=sharing) | [solutions](https://drive.google.com/file/d/16pVU8R-UBUMnn5c2uecx2WSJbmnfSNWm/view?usp=sharing) | [section recording](https://youtu.be/F0udHdTN3i4) | [walkthrough videos](https://drive.google.com/drive/folders/1d7TTFP5OxFFnnF3ZbGEDQof_kKQE_HTO?usp=sharing)
 
-**Discussion 8**{: .label .label-discussion } Midterm Review | [worksheet](https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view) |
+**Discussion 8**{: .label .label-discussion } Midterm Review | [worksheet](https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view) | [solutions](https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing)
