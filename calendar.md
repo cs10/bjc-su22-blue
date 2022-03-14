@@ -356,7 +356,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a><a href="https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing">(solutions)</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a><a href="https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
       <td>Midterm Review Session</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE ------------------------------------------------------------ -->
