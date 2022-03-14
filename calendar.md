@@ -337,7 +337,7 @@
     </tr>
     <tr>
       <th>Wed 3/09</th> <!-- Date -->
-      <td>14. Programming Paradigms</td> <!-- Lecture -->
+      <td>14. Programming Paradigms<a href="https://youtu.be/1rdEigeCuNo">(recording)</a> | <a href="https://docs.google.com/presentation/d/16YWT03vdsVoth_EiYLwvKpC8f6c7tNlQdWVMbtajvKY/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>RQ 6 (MW Labs)</td> <!-- Readings -->
       <td>Midterm Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -356,7 +356,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1_U36sr7Ecqc4CsAjAOOlf6PBRAG6hIpN/view?usp=sharing">Midterm Review</a><a href="https://drive.google.com/file/d/1UmaYWMbc6ekyYftVBh3wBTavoYZZgZJW/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
       <td>Midterm Review Session</td> <!-- Assignment -->
     </tr>
     <!-- WEEK NINE ------------------------------------------------------------ -->
