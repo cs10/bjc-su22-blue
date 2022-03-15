@@ -364,7 +364,7 @@
       <td rowspan=5>9</td>
       <th>Mon 3/14</th> <!-- Date -->
       <td>MIDTERM</td> <!-- Lecture -->
-      <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply </a></td> <!-- Readings -->
+      <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply (Optional) </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
@@ -380,7 +380,7 @@
     <tr>
       <th>Wed 3/16</th> <!-- Date -->
       <td>15. Python I - Intro to Python</td> <!-- Lecture -->
-      <td>RQ 7 (MW Labs)</td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Proj 2 due</td> <!-- Assignment -->
@@ -388,7 +388,7 @@
     <tr>
       <th>Thur 3/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td>RQ 7 (TTh Labs)</td> <!-- Readings -->
+      <td></td> <!-- Readings -->
       <td>12: Welcome to Python (due 3/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
