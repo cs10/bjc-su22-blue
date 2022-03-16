@@ -381,7 +381,7 @@
       <th>Wed 3/16</th> <!-- Date -->
       <td>15. Python I - Intro to Python</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">12: Welcome to Python</a> (due 3/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Proj 2 due</td> <!-- Assignment -->
     </tr>
@@ -389,7 +389,7 @@
       <th>Thur 3/17</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>12: Welcome to Python (due 3/31)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">12: Welcome to Python</a> (due 3/31)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>

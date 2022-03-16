@@ -101,10 +101,15 @@ labs:
     - Show us your pandigital block and explain how it works.
     - Show us your factorion block and explain how it works.
     - Show us your list all factorions function. How does this compare to the list all pandigital numbers function?
-  # - lab_name:
-  #   lab_no: 12
-  #   topic_file:
-  #   questions:
+  - lab_name: Welcome to Python
+    lab_no: 12
+    topic_file: berkeley_bjc/python/besides-blocks-welcome-parsons.topic
+    questions:
+    - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
+    - What is the difference between the "print" and "return" python commands?
+    - Show your "reverse_string(string)" function. If you did it iteratively, explain the recursive solution. If you did it recursively, explain the iterative solution.
+    - Show your "palindrome(string)" function.
+    - Show your c-curve function and its output.
   # - lab_name:
   #   lab_no: 13
   #   topic_file:
@@ -155,38 +160,6 @@ On this page, you will find a list of check-off questions for each lab.
 {% endfor %}
 
 <!-- 
- **Lab 7**{: .label .label-lab } [Testing & Project 3](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/2048-testing/2048.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- How does the test block work? What is its domain and range?
-- Show us the output of your test block on the merge column. Explain why this output makes sense.
-- How will writing tests help you for the 2048 assignment?
-- How do merge up and merge column work? What is the domain/range of each block?
-- What is the domain and range of the update display block?
-
- **Lab 8**{: .label .label-lab } [Boards](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- Why did we have variables like “Size”, “Start”, and “Display Width” when designing our board and what do they do?
-- Show your working board game by moving the sprite around the board.
-- Explain an advantage of using an underlying board structure when designing a game.
-
- **Lab 9**{: .label .label-lab } [Trees and Fractals](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
-- Please show me your “crazy-tree” block.
-- Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
-- What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
-- Please show me your “snowflake” block.
-
-**Lab 10**{: .label .label-lab } [Recursive Reporters](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- Why do we map the first item of the set in front of a recursive call of subsets over the rest of the list?
-- Explain why the second version of subsets only makes 7 calls instead of 64.
-- Explain how the sort block works, how the merge block works, and how they work together.
-- Show us the recursive numbers block.
-- Show us the recursive ends-e block.
-
-**Lab 11**{: .label .label-lab }[HOFS and Functions as Data](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
-- What is a higher-order function?
-- Show us your pandigital block and explain how it works.
-- Show us your factorion block and explain how it works.
-- Show us your list all factorions function. How does this compare to the list all pandigital numbers function?
-
 **Lab 12**{: .label .label-lab }[Welcome to Python!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
 - What is the difference between the "print" and "return" python commands?
