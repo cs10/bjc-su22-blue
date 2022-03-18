@@ -398,7 +398,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>9. Intro to Python</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing">9. Intro to Python</a></td> <!-- Discussion -->
       <td>PROJ 2 comments due; release Final Proj Proposal (due 4/01)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN ------------------------------------------------------------ -->
