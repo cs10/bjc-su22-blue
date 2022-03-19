@@ -363,7 +363,7 @@
     <tr>
       <td rowspan=5>9</td>
       <th>Mon 3/14</th> <!-- Date -->
-      <td>MIDTERM</td> <!-- Lecture -->
+      <td>MIDTERM (Review Lecture) <a href="https://youtu.be/QN-6euPxsBw"> (recording)</a> | <a href="https://docs.google.com/presentation/d/1LXrT0DoGkTPCN5oWQZbBT3rDkJTbV3qNeYiZOQ11ebg/edit?usp=sharing"> (slides)</a></td> <!-- Lecture -->
       <td><a href="https://www.youtube.com/watch?v=7Pq-S557XQU"> 7. Humans Need Not Apply (Optional) </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
