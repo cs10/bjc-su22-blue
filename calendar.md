@@ -379,7 +379,7 @@
     </tr>
     <tr>
       <th>Wed 3/16</th> <!-- Date -->
-      <td>15. Python I - Intro to Python <a href="https://youtu.be/0sd4Qt4lXCU">(recording)</a></td> <!-- Lecture -->
+      <td>15. Python I - Intro to Python <a href="https://youtu.be/0sd4Qt4lXCU">(recording)</a> | <a href="https://docs.google.com/presentation/d/1pUK80tYKFJNMfzz8-_4MSyaYi31FVHiqTJXZKMmuRic/edit?usp=sharing">(slides)</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=&novideo&noreading&noassignment">12: Welcome to Python</a> (due 3/30)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
