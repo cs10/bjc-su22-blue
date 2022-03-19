@@ -398,7 +398,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing">9. Intro to Python</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing">9. Intro to Python</a><a href="https://drive.google.com/file/d/1ZC9A2j9aga-K0hGeucp3GT0laDbpgXUF/view?usp=sharing"> (solutions)</a></td> <!-- Discussion -->
       <td>PROJ 2 comments due; release Final Proj Proposal (due 4/01)</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN ------------------------------------------------------------ -->
