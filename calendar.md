@@ -449,7 +449,7 @@
       <th>Mon 3/28</th> <!-- Date -->
       <td>16. Python II - Built-in Types, Data Structures</td> <!-- Lecture -->
       <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/04)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td> <a href="https://docs.google.com/document/d/10GK7Kemb--Xxf3WHBnKieltJ1nfczszcNIVeqQZW4WM/edit?usp=sharing">release Final Proj Proposal (due 4/02)</a></td> <!-- Assignment -->
     </tr>
@@ -457,7 +457,7 @@
       <th>Tue 3/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>13: Data Structures in Python (due 4/05)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment"></td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
     </tr>
@@ -465,7 +465,7 @@
       <th>Wed 3/30</th> <!-- Date -->
       <td>17. Python III - OOP in Python</td> <!-- Lecture -->
       <td>RQ 8 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/06)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -473,7 +473,7 @@
       <th>Thur 3/31</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 8 (TTh Labs)</td> <!-- Readings -->
-      <td>Lab 14: OOP in Python (due 4/07)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/07)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
