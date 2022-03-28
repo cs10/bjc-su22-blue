@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Syllabus
+order: 3
 description: >-
     Course policies and information.
 ---
@@ -61,7 +62,7 @@ This Spring, CS10 will be be primarily in person, but we will also have some act
 | Homework 2: Mastermind         | 20       |
 | Project 1: 2048                | 30       |
 | Project 2: Explore             | 40       |
-| Homework 3: 2048 Translation   | 40       |
+| Homework 3: Intro to Python    | 40       |
 | Project 3: Your Choice         | 75       |
 | Labs                           | 40       |
 | Reading Quizzes                | 10       |
@@ -95,6 +96,12 @@ There will be three exams: The Quest, the Midterm and the Final Exam. Exams form
 ## DSP Accommodations
 If you have a DSP accommodation through the university that is not addressed by the above policies, please be sure to submit your official letter through the DSP portal. Once you have done so, we will be able to accommodate you. If you have an accommodation but are unable to promptly submit the letter for whatever reason, please reach out to [cs10@berkeley.edu](mailto:cs10@berkeley.edu).
 
+## Attendance & Lecture Questions
+
+Each week we'll take attendance in _discussion_ section, and most lecturers will be accompanised by a series of short "self-check" questions on Gradescope.
+Each of these activies is worth 1 point, and you will have many opportunities to earn the 30 points throughout the semester.
+
+Lecture self-checks are designed to be submitted within a few days of lecture, but can be submitted late without penalty.
 
 ## Academic Integrity
 

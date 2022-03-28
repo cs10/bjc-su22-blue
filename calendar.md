@@ -323,7 +323,7 @@
       <th>Mon 3/07</th> <!-- Date -->
       <td>13. Procedures as Data - Higher Order Procedures<a href="https://youtu.be/bwEdOUi_gPI">(Recording)</a> | <a href="https://docs.google.com/presentation/d/1Pq6FlYlbSAn5rQZ9KY5aS-wNsqSnfcnzbc4UGL2TOGU/edit?usp=sharing">(Slides)</a></td> <!-- Lecture -->
       <td> <a href="https://www.businessinsider.com/how-app-developers-keep-us-addicted-to-our-smartphones-2018-1"> 6. How app developers are keeping us addicted to our phones </a>  </td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->      
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-practice.topic&course=&novideo&noreading&noassignment">11: Functions as Data, HOFs</a> (due 3/16)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -657,7 +657,7 @@
     <tr>
       <td rowspan=5>16</td>
       <th>Mon 5/02</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -665,7 +665,7 @@
     </tr>
     <tr>
       <th>Tue 5/03</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
@@ -673,7 +673,7 @@
     </tr>
     <tr>
       <th>Wed 5/04</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -681,7 +681,7 @@
     </tr>
     <tr>
       <th>Thur 5/05</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -689,7 +689,7 @@
     </tr>
     <tr>
       <th>Fri 5/06</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -699,7 +699,7 @@
     <tr>
       <td rowspan=5>17</td>
       <th>Mon 5/09</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -707,7 +707,7 @@
     </tr>
     <tr>
       <th>Tue 5/10</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td><b>Final Exam</b></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td><!-- Discussion -->
@@ -715,7 +715,7 @@
     </tr>
     <tr>
       <th>Wed 5/11</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -723,7 +723,7 @@
     </tr>
     <tr>
       <th>Thur 5/12</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -731,7 +731,7 @@
     </tr>
     <tr>
       <th>Fri 5/13</th> <!-- Date -->
-      <td>Holiday</td> <!-- Lecture -->
+      <td>No Class</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
