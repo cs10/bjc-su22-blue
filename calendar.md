@@ -399,7 +399,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td><a href="https://drive.google.com/file/d/1VLEeb8M2gOP7csN75K6052bFquZUjj3s/view?usp=sharing">9. Intro to Python</a><a href="https://drive.google.com/file/d/1ZC9A2j9aga-K0hGeucp3GT0laDbpgXUF/view?usp=sharing"> (solutions)</a></td> <!-- Discussion -->
-      <td>PROJ 2 comments due; release Final Proj Proposal (due 4/01)</td> <!-- Assignment -->
+      <td>PROJ 2 comments due;</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TEN ------------------------------------------------------------ -->
     <tr>
@@ -451,7 +451,7 @@
       <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
+      <td> <a href="https://docs.google.com/document/d/10GK7Kemb--Xxf3WHBnKieltJ1nfczszcNIVeqQZW4WM/edit?usp=sharing">release Final Proj Proposal (due 4/02)</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 3/29</th> <!-- Date -->
@@ -459,7 +459,7 @@
       <td></td> <!-- Readings -->
       <td>13: Data Structures in Python (due 4/05)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
@@ -483,7 +483,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td>10. List Comprehension & Dictionaries</td> <!-- Discussion -->
-      <td>Final Proj Proposal due</td> <!-- Assignment -->
+      <td>Final Proj Proposal due 4/02</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWELVE ------------------------------------------------------------ -->
     <tr>
@@ -493,7 +493,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Final Project Proposals Review</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 4/05</th> <!-- Date -->
@@ -509,7 +509,7 @@
       <td>RQ 9 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td>Proj 3 Party</td> <!-- Assignment -->
+      <td>Final Project Proposals Review; Proj 3 Party</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Thur 4/07</th> <!-- Date -->
