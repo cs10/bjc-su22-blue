@@ -447,7 +447,7 @@
     <tr>
       <td rowspan=5>11</td>
       <th>Mon 3/28</th> <!-- Date -->
-      <td>16. Python II - Built-in Types, Data Structures<a href="https://youtu.be/kopMlRlL2mc">(recording)</a> | <a href="https://docs.google.com/presentation/d/145bYNQlNhShWFMye1s7boUhsUoTIfXeY8zAel3d-1j8/edit?usp=sharing">(slides)</td> <!-- Lecture -->
+      <td>16. Python II - Built-in Types, Data Structures<a href="https://youtu.be/kopMlRlL2mc">(recording)</a> | <a href="https://docs.google.com/presentation/d/145bYNQlNhShWFMye1s7boUhsUoTIfXeY8zAel3d-1j8/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://blog.trinket.io/why-python/"> 8. Why Python </a></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/04)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -463,7 +463,7 @@
     </tr>
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
-      <td>17. Python III - OOP in Python<a href="https://youtu.be/JjjwbFK_0mM">(recording)</a> | <a href="https://docs.google.com/presentation/d/1nuEamcljAMW2KRmR1YXp7dMKUSZfTrjxKlCNW9yIb7E/edit?usp=sharing">(slides)</td> <!-- Lecture -->
+      <td>17. Python III - OOP in Python<a href="https://youtu.be/JjjwbFK_0mM">(recording)</a> | <a href="https://docs.google.com/presentation/d/1nuEamcljAMW2KRmR1YXp7dMKUSZfTrjxKlCNW9yIb7E/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>RQ 8 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/06)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
