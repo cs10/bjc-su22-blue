@@ -463,7 +463,7 @@
     </tr>
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
-      <td>17. Python III - OOP in Python<a href="https://youtu.be/JjjwbFK_0mM">(recording)</a></td> <!-- Lecture -->
+      <td>17. Python III - OOP in Python<a href="https://youtu.be/JjjwbFK_0mM">(recording)</a> | <a href="https://docs.google.com/presentation/d/1nuEamcljAMW2KRmR1YXp7dMKUSZfTrjxKlCNW9yIb7E/edit?usp=sharing">(slides)</td> <!-- Lecture -->
       <td>RQ 8 (MW Labs)</td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-oop-joshhug-edition.topic&course=&novideo&noreading&noassignment">Lab 14: OOP in Python </a> (due 4/06)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
