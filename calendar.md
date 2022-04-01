@@ -459,7 +459,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment"></td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>release Proj 3 (due 4/08); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
+      <td>release Homework 3 (due 4/14); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
@@ -525,7 +525,7 @@
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td>11. OOP</td> <!-- Discussion -->
-      <td>Proj 3 due</td> <!-- Assignment -->
+      <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THIRTEEN ------------------------------------------------------------ -->
     <tr>
@@ -559,7 +559,7 @@
       <td>RQ 10 (TTh Labs)</td> <!-- Readings -->
       <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td>Homework 3 due</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Fri 4/15</th> <!-- Date -->
