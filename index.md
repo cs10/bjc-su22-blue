@@ -5,7 +5,7 @@ nav_exclude: false
 nav_order: 1
 ---
 
-# **CS 10: The Beauty and Joy of Computing**
+# **CS 10: The Beauty and Joy of Doggos**
 {: .mb-2 }
 UC Berkeley, Spring 2022
 {: .mb-2 .fs-6 .text-grey-dk-100 }
@@ -23,7 +23,7 @@ UC Berkeley, Spring 2022
   {% endif %}
   </div>
   <div class="float-right">
-    <img src="/sp22/assets/images/alonzo.png" alt="Alonzo, the CS10 Mascot" />
+    <img src="/sp22/assets/images/10.png" alt="Joyous Doggo, the CS10 Mascot" />
   </div>
 </div>
 <div style="flex-grow: 0">
