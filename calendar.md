@@ -482,7 +482,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1q4LSm4RX_Kr7-WWqBskfZSfAENPKxdhq/view?usp=sharing">10. List Comprehension & Dictionaries</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1q4LSm4RX_Kr7-WWqBskfZSfAENPKxdhq/view?usp=sharing">10. List Comprehensions & Dictionaries</a><a href="https://drive.google.com/file/d/1ornaVe8d3zxx0U9v2JPB6zlMFQrjfZxx/view?usp=sharing">(solutions)</a></td> <!-- Discussion -->
       <td>Final Proj Proposal due 4/02</td> <!-- Assignment -->
     </tr>
     <!-- WEEK TWELVE ------------------------------------------------------------ -->
