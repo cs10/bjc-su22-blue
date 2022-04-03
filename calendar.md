@@ -457,7 +457,7 @@
       <th>Tue 3/29</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment"></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/05)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>release Homework 3 (due 4/14); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
     </tr>
@@ -491,7 +491,7 @@
       <th>Mon 4/04</th> <!-- Date -->
       <td>18. Python IV - HOFs</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python </a>(due 4/11)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Proposals Review</td> <!-- Assignment -->
     </tr>
@@ -499,7 +499,7 @@
       <th>Tue 4/05</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>15: Text Processing in Python (due 4/12)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python</a> (due 4/12)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>Final Project Proposals Review</td> <!-- Assignment -->
     </tr>
@@ -507,7 +507,7 @@
       <th>Wed 4/06</th> <!-- Date -->
       <td>19. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
       <td>RQ 9 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Proj 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Proposals Review; Proj 3 Party</td> <!-- Assignment -->
     </tr>
