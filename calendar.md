@@ -498,7 +498,7 @@
     <tr>
       <th>Tue 4/05</th> <!-- Date -->
       <td></td> <!-- Lecture -->
-      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">9. StarCraft II-playing AI AlphaStar takes out pros undefeated </td> <!-- Readings -->
+      <td><a href="https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/">9. StarCraft II-playing AI AlphaStar takes out pros undefeated</a></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python</a> (due 4/12)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td>Final Project Proposals Review</td> <!-- Assignment -->
