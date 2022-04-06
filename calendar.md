@@ -505,7 +505,7 @@
     </tr>
     <tr>
       <th>Wed 4/06</th> <!-- Date -->
-      <td>19. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
+      <td>19. Python IV: HOFs</td> <!-- Lecture -->
       <td>RQ 9 (MW Labs)</td> <!-- Readings -->
       <td>Proj 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -531,7 +531,7 @@
     <tr>
       <td rowspan=5>13</td>
       <th>Mon 4/11</th> <!-- Date -->
-      <td>20. Python V - Tree Recursion and Game Theory</td> <!-- Lecture -->
+      <td>20. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -547,7 +547,7 @@
     </tr>
     <tr>
       <th>Wed 4/13</th> <!-- Date -->
-      <td>21. HCI</td> <!-- Lecture -->
+      <td>21. TBD</td> <!-- Lecture -->
       <td>RQ 10 (MW Labs)</td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -633,7 +633,7 @@
       <th>Wed 4/27</th> <!-- Date -->
       <td>25. Conclusion and Farewell</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><strong>In-Lab Final Exam</strong></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Proj due</td> <!-- Assignment -->
     </tr>
@@ -641,7 +641,7 @@
       <th>Thur 4/28</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>Final Project Work Session</td> <!-- Lab -->
+      <td><strong>In-Lab Final Exam</strong></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
