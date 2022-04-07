@@ -505,7 +505,7 @@
     </tr>
     <tr>
       <th>Wed 4/06</th> <!-- Date -->
-      <td>19. Python IV: HOFs<a href="https://youtu.be/UxOH3zh3UYc">(recording)</a></td> <!-- Lecture -->
+      <td>19. Python IV: HOFs<a href="https://youtu.be/UxOH3zh3UYc">(recording)</a> | <a href="https://docs.google.com/presentation/d/1W3SwBmybIiPKT3z8GR95wHrJwoZ_QmDDRTIz1AbZ8qo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>RQ 9 (MW Labs)</td> <!-- Readings -->
       <td>Proj 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
