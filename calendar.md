@@ -489,7 +489,7 @@
     <tr>
       <td rowspan=5>12</td>
       <th>Mon 4/04</th> <!-- Date -->
-      <td>18. Python IV - HOFs<a href="https://youtu.be/KPWX5DlQuMo">(recording)</a> | <a href="https://docs.google.com/presentation/d/1W3SwBmybIiPKT3z8GR95wHrJwoZ_QmDDRTIz1AbZ8qo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>18. Python IV - OOP part II<a href="https://youtu.be/KPWX5DlQuMo">(recording)</a> | <a href="https://docs.google.com/presentation/d/1W3SwBmybIiPKT3z8GR95wHrJwoZ_QmDDRTIz1AbZ8qo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-text-processing.topic&course=&novideo&noreading&noassignment">15: Text Processing in Python </a>(due 4/11)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
