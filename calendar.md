@@ -524,7 +524,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>11. OOP</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THIRTEEN ------------------------------------------------------------ -->
