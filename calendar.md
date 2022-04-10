@@ -507,7 +507,7 @@
       <th>Wed 4/06</th> <!-- Date -->
       <td>19. Python IV: HOFs<a href="https://youtu.be/UxOH3zh3UYc">(recording)</a></td> <!-- Lecture -->
       <td>RQ 9 (MW Labs)</td> <!-- Readings -->
-      <td>Proj 3 Work Session</td> <!-- Lab -->
+      <td>HW 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Proposals Review; Proj 3 Party</td> <!-- Assignment -->
     </tr>
@@ -515,7 +515,7 @@
       <th>Thur 4/07</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 9 (TTh Labs)</td> <!-- Readings -->
-      <td>Proj 3 Work Session</td> <!-- Lab -->
+      <td>HW 3 Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Project Proposals Review</td> <!-- Assignment -->
     </tr>
@@ -533,7 +533,7 @@
       <th>Mon 4/11</th> <!-- Date -->
       <td>20. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a>(due 4/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -541,7 +541,7 @@
       <th>Tue 4/12</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>16: Intro to Data Science (due 4/19)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a> (due 4/19)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -549,7 +549,7 @@
       <th>Wed 4/13</th> <!-- Date -->
       <td>21. TBD</td> <!-- Lecture -->
       <td>RQ 10 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>

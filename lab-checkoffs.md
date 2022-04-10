@@ -136,11 +136,16 @@ labs:
     - How do we choose how something is sorted when using the "sorted" function in Python?
     - Show us your "top_n_words" and "print_top_n_words" functions.
     - Show us your "apply_language_game" function.
+  - lab_name: Data Science
+    lab_no: 16
+    topic_file: berkeley_bjc/python/data-lab.topic
+    questions:
+    - What are some important commands that you can use to keep only certain rows in a table?
+    - Describe the three main steps of working with data as per this lab.
+    - What commands did you use to find the price of the most expensive listing in San Francisco?
+    - Show us your scatter plot.What are some things you notice from this plot?
 
-  # - lab_name:
-  #   lab_no: 16
-  #   topic_file:
-  #   questions:
+
   # - lab_name:
   #   lab_no: 17
   #   topic_file:
