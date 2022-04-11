@@ -532,7 +532,10 @@
       <td rowspan=5>13</td>
       <th>Mon 4/11</th> <!-- Date -->
       <td>20. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://www.thinkful.com/blog/what-is-data-science/">10a. What is Data Science</a>
+      <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist">10b. How to Start Thinking Like a Data Scientist</a>
+      <a href="http://www.tylervigen.com/spurious-correlations">10c. Spurious Correlations</a>
+      </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a>(due 4/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

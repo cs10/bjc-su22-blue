@@ -62,6 +62,13 @@ This page will be updated with links to readings throughout the semester.
 - Required:
   - [StarCraft II-playing AI AlphaStar takes out pros undefeated](https://techcrunch.com/2019/01/24/starcraft-ii-playing-ai-alphastar-takes-out-pros-undefeated/)
 
+**Week 13 Reading (for RQ 10)**{: .label .label-reading }
+
+- Required:
+  - [What is Data Science?](https://www.thinkful.com/blog/what-is-data-science/)
+  - [How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist)
+  - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
+
 <!--
 **Week 5 Reading**{: .label .label-reading }
 
