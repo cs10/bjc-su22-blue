@@ -569,7 +569,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>12. Python HOFs, Lambdas, Tree Recursion</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN ------------------------------------------------------------ -->
