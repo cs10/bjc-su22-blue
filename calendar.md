@@ -577,7 +577,7 @@
       <td rowspan=5>14</td>
       <th>Mon 4/18</th> <!-- Date -->
       <td>22. Concurrency</td> <!-- Lecture -->
-      <td></td> <!-- Readings -->
+      <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">11. The Secret History of Women in Coding</a></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->

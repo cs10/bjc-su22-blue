@@ -69,6 +69,10 @@ This page will be updated with links to readings throughout the semester.
   - [How to Start Thinking Like a Data Scientist](https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist)
   - [Spurious Correlations](http://www.tylervigen.com/spurious-correlations)
 
+**Week 14 Reading (for RQ 11)**{: .label .label-reading }
+
+  - Required: [The Secret History of Women in Coding](https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing)
+
 <!--
 **Week 5 Reading**{: .label .label-reading }
 
