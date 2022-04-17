@@ -459,7 +459,7 @@
       <td></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-data-struct.topic&course=&novideo&noreading&noassignment">13: Data Structures in Python</a> (due 4/05)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
-      <td>release Homework 3 (due 4/14); release Final Technical Spec (due 4/27)</td> <!-- Assignment -->
+      <td>release Homework 3 (due 4/14)</td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Wed 3/30</th> <!-- Date -->
@@ -538,7 +538,7 @@
       </td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/data-lab.topic&course=&novideo&noreading&noassignment">16: Intro to Data Science </a>(due 4/18)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
-      <td></td> <!-- Assignment -->
+      <td><a href="https://docs.google.com/document/d/18GOC6ESA4zw8wsoO-kOSX2iUbhkFL6aCa71LSos_XJc/edit?usp=sharing">release Final Technical Spec (due 4/27)</a></td> <!-- Assignment -->
     </tr>
     <tr>
       <th>Tue 4/12</th> <!-- Date -->
@@ -569,7 +569,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>12. Python HOFs, Lambdas, Tree Recursion</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN ------------------------------------------------------------ -->
