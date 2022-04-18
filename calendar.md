@@ -578,7 +578,7 @@
       <th>Mon 4/18</th> <!-- Date -->
       <td>22. Concurrency</td> <!-- Lecture -->
       <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">11. The Secret History of Women in Coding</a></td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=&novideo&noreading&noassignment">17: Concurrency</a> (due 4/25)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -586,7 +586,7 @@
       <th>Tue 4/19</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
-      <td>17: Concurrency (due 4/26)</td> <!-- Lab -->
+      <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=&novideo&noreading&noassignment">17: Concurrency</a> (due 4/26)</td> <!-- Lab -->
       <td></td><!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -594,7 +594,7 @@
       <th>Wed 4/20</th> <!-- Date -->
       <td>23. Limits of Computing</td> <!-- Lecture -->
       <td>RQ 11 (MW Labs)</td> <!-- Readings -->
-      <td></td> <!-- Lab -->
+      <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
@@ -602,7 +602,7 @@
       <th>Thur 4/21</th> <!-- Date -->
       <td></td> <!-- Lecture -->
       <td>RQ 11 (TTh Labs)</td> <!-- Readings -->
-      <td>18: Debugging (due 4/28)</td> <!-- Lab -->
+      <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
       <td>Final Proj Party</td> <!-- Assignment -->
     </tr>
