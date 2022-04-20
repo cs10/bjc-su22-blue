@@ -524,14 +524,14 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a><a href="https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing"> (solutions) </td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a><a href="https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing"> (solutions)</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THIRTEEN ------------------------------------------------------------ -->
     <tr>
       <td rowspan=5>13</td>
       <th>Mon 4/11</th> <!-- Date -->
-      <td>20. Social Implications of Computing III - Computers in Education</td> <!-- Lecture -->
+      <td>LECTURE CANCELLED</td> <!-- Lecture -->
       <td><a href="https://www.thinkful.com/blog/what-is-data-science/">10a. What is Data Science</a>
       <a href="https://hbr.org/2013/11/how-to-start-thinking-like-a-data-scientist">10b. How to Start Thinking Like a Data Scientist</a>
       <a href="http://www.tylervigen.com/spurious-correlations">10c. Spurious Correlations</a>
@@ -550,7 +550,7 @@
     </tr>
     <tr>
       <th>Wed 4/13</th> <!-- Date -->
-      <td>21. TBD</td> <!-- Lecture -->
+      <td>20. Social Implications: Privacy<a href="https://youtu.be/twWfUC4-j70"> (recording)</a> | <a href="https://docs.google.com/presentation/d/1jpTprQd_Fp5zWMoEOTZ41LaUtavjKPzwtUhCetMmtAo/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>RQ 10 (MW Labs)</td> <!-- Readings -->
       <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -569,7 +569,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a><a href="https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing"> (solutions) </td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a><a href="https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing"> (solutions)</a> </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN ------------------------------------------------------------ -->
