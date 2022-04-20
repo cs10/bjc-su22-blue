@@ -524,7 +524,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing">11. OOP</a><a href="https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing"> (solutions) </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK THIRTEEN ------------------------------------------------------------ -->
@@ -569,7 +569,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing">12. Python HOFs, Lambdas, Tree Recursion</a><a href="https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing"> (solutions) </td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FOURTEEN ------------------------------------------------------------ -->
