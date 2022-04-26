@@ -576,7 +576,7 @@
     <tr>
       <td rowspan=5>14</td>
       <th>Mon 4/18</th> <!-- Date -->
-      <td>22. Concurrency<a href="https://youtu.be/Ge57N9p7U6k">(recording)</a> | <a href="https://docs.google.com/presentation/d/1KP0t3-GUKy34V7zTLnuAHSfZ69DKrOUAMEkrdz5uA6E/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
+      <td>21. Concurrency<a href="https://youtu.be/Ge57N9p7U6k">(recording)</a> | <a href="https://docs.google.com/presentation/d/1KP0t3-GUKy34V7zTLnuAHSfZ69DKrOUAMEkrdz5uA6E/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td><a href="https://drive.google.com/file/d/1m9ycbBZLf5WXTwVmtGw9-i-wz4-QgdOV/view?usp=sharing">11. The Secret History of Women in Coding</a></td> <!-- Readings -->
       <td><a href="https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic&course=&novideo&noreading&noassignment">17: Concurrency</a> (due 4/25)</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
@@ -592,7 +592,7 @@
     </tr>
     <tr>
       <th>Wed 4/20</th> <!-- Date -->
-      <td>23. Limits of Computing</td> <!-- Lecture -->
+      <td>22. Limits of Computing<a href="https://youtu.be/cVTOFH8aGlg">(recording)</a> | <a href="https://docs.google.com/presentation/d/10M9oPo9hu_eLOlz7LmuPSghdGuIXrs4EcETQYkhH6-4/edit?usp=sharing"></a></td> <!-- Lecture -->
       <td>RQ 11 (MW Labs)</td> <!-- Readings -->
       <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
