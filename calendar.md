@@ -618,7 +618,7 @@
     <tr>
       <td rowspan=5>15</td>
       <th>Mon 4/25</th> <!-- Date -->
-      <td>24. Alumni Panel</td> <!-- Lecture -->
+      <td>24. Alumni Panel<a href="https://youtu.be/5rNg3YXFZ9s">(recording)</a> | <a href="https://docs.google.com/presentation/d/1c-9e0IJR-vgMJs6Wl9QWbDKRfvIKgXuaLSZCL4FANvI/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
