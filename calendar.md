@@ -634,7 +634,7 @@
     </tr>
     <tr>
       <th>Wed 4/27</th> <!-- Date -->
-      <td>25. Conclusion and Farewell</td> <!-- Lecture -->
+      <td>25. Conclusion and Farewell<a href="https://youtu.be/T0hhojruato">(recording)</a></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td><strong>In-Lab Final Exam</strong></td> <!-- Lab -->
       <td></td> <!-- Discussion -->
