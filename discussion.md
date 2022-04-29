@@ -33,3 +33,5 @@ NOTE: The asynchronous discussion link will take you to video walkthroughs of di
 **Discussion 11**{: .label .label-discussion } OOP | [worksheet](https://drive.google.com/file/d/148beOH3iVCOnBtgG1iHVLe1OQ5yWc580/view?usp=sharing) | [solutions](https://drive.google.com/file/d/18AOJMHmzFSerXKp99NTrhz5oU89V-ltW/view?usp=sharing) | [section recording](https://youtu.be/WieaCg2o1Tk) | [walkthrough videos]
 
 **Discussion 12**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1tgBZqAgLFHRWGSYWeDBhc8b3vIO8On-I/view?usp=sharing) | [solutions](https://drive.google.com/file/d/17akeORdoirOHy5bXegTMaEiO1oKFcPfz/view?usp=sharing) | [section recording] | [walkthrough videos] (https://drive.google.com/drive/folders/1ustbJk-j7EK-1YY02sFueidW28EHjgM5?usp=sharing)
+
+**Discussion 13**{: .label .label-discussion } Python HOFs, Lambdas, Tree Recursion | [worksheet](https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing) |

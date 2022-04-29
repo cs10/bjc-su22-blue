@@ -611,7 +611,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>13. Social Implications Session</td> <!-- Discussion -->
+      <td>OFFICE HOURS</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK FIFTEEN ------------------------------------------------------------ -->
@@ -653,7 +653,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td>14. Final Review + Farewell</td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing">13. Final Review + Farewell</a></td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN ------------------------------------------------------------ -->
