@@ -653,7 +653,7 @@
       <td></td> <!-- Lecture -->
       <td></td> <!-- Readings -->
       <td></td> <!-- Lab -->
-      <td><a href="https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing">13. Final Review + Farewell</a></td> <!-- Discussion -->
+      <td><a href="https://drive.google.com/file/d/1xFa-RcWCrtPqAYQ1gycIESYznOq0bfaz/view?usp=sharing">13. Final Review + Farewell</a><a href="https://drive.google.com/file/d/1vZXt1tZAXwfvNB-bz-LoNOC-mlIpNAPd/view?usp=sharing">(solution)</td> <!-- Discussion -->
       <td></td> <!-- Assignment -->
     </tr>
     <!-- WEEK SIXTEEN ------------------------------------------------------------ -->
