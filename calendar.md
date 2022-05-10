@@ -592,7 +592,7 @@
     </tr>
     <tr>
       <th>Wed 4/20</th> <!-- Date -->
-      <td>22. Limits of Computing<a href="https://youtu.be/cVTOFH8aGlg">(recording)</a> | <a href="https://docs.google.com/presentation/d/10M9oPo9hu_eLOlz7LmuPSghdGuIXrs4EcETQYkhH6-4/edit?usp=sharing"></a></td> <!-- Lecture -->
+      <td>22. Limits of Computing<a href="https://youtu.be/cVTOFH8aGlg">(recording)</a> | <a href="https://docs.google.com/presentation/d/10M9oPo9hu_eLOlz7LmuPSghdGuIXrs4EcETQYkhH6-4/edit?usp=sharing">(slides)</a></td> <!-- Lecture -->
       <td>RQ 11 (MW Labs)</td> <!-- Readings -->
       <td>Final Project Work Session</td> <!-- Lab -->
       <td></td> <!-- Discussion -->
