@@ -17,7 +17,7 @@ nav_exclude: true
     <tr>
       <th class="center schedule-week-num">Week</th>
       <th>Date</th>
-      <th>Lecture</th>
+      <th>Demos</th>
       <th>Readings</th>
       <th>Lab</th>
       <th>Discussion</th>
