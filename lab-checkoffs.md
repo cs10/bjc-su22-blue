@@ -34,6 +34,13 @@ check your understanding.
 </details>
 {% endfor %}
 
+**Lab 1**{: .label .label-lab}[Introduction to Programming](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+- How do you ensure you are logged into Snap!?
+- Show us that you've saved this lab to your Snap! account. This is important so you can refer back to your work for future assignments!
+- Show us your Alonzo game.
+- Is there anything you found interesting or challenging about Snap!?
+
+
 <!-- 
 **Lab 12**{: .label .label-lab }[Welcome to Python!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
 - What is the difference between the "python", "python file.py", and "python -i file.py" terminal commands?
