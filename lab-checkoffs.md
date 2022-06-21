@@ -52,6 +52,13 @@ check your understanding.
 - Show your most recent pinwheel block. What do the different inputs (or argumnets) control?
 - Show us your squiral block.
 
+**Lab 4**{: .label .label-lab}[Lists and Higher Order Functions](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment)
+- What is a list? Why would we use a list of 10 elements instead of just making 10 variables?
+- What do `map`, `keep`, and `combine` each do?
+- Show us your `acronym` block.
+- Show us your `expand` block.
+- What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
+
 
 <!-- 
 **Lab 12**{: .label .label-lab }[Welcome to Python!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
