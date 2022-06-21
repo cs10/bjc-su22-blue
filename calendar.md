@@ -9,17 +9,20 @@
   </thead>
   <tbody class="js-scheduleContent">
     <tr>
-      <td rowspan = "6">6/20</td>
-      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td rowspan = "7">6/20</td>
+      <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td>Welcome Session in 380 Soda</td>
-      <td rowspan = "6"><a href="https://forms.gle/HjuWUq9tZGh1c5de8">Day 1 Reflection</a></td>
+      <td rowspan = "7"><a href="https://forms.gle/HjuWUq9tZGh1c5de8">Day 1 Reflection</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://docs.google.com/presentation/d/1dw_3Y8Zy3TYMknVLijRRViHpu6qhJeiQe7NF_remvVU/edit?usp=sharing">Course Logistics and Welcome</a></td>
     </tr>
     <tr>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRbp8hpJkSWe7-FpmNcia2FGLCZFpitCkcwd5pK0WkSQzjBX5APQU4ZyYVBVRBRXfccFXDfjMAZVd4s/pub">Coding Exercise</a><a href="https://forms.gle/9Uf1f9cwTjHMivUC7"> (Submission Link)</a></td>
     </tr>
     <tr>
       <td rowspan = "3">Block 2: 1:30-3:30PM</td>
-      <td>Course Logistics and Welcome</td>
+      <td>Section Norms, Getting to Know You</td>
     </tr>
     <tr>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/1-building-an-app/1-creating-a-snap-account.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 1: Introduction to Programming</a><br/>(only complete through Page 2)
