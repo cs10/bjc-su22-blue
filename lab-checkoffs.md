@@ -46,7 +46,7 @@ check your understanding.
 - Show us your "more complicated gossip" block. 
 - In the last exercise, we asked you to have "more complicated who" call itself. What do you think is happening here? Don't worry if you don't fully understand this; we will formalize this in a few days!
 
-**Lab 3**:{: .label .label-lab}[Modern Art with Polygons](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
+**Lab 3**{: .label .label-lab}[Modern Art with Polygons](https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment)
 - In this lab you learned a few blocks that achieve repetition. Which blocks are these, and when might you use them?
 - How do you add an input to a block (or procedure)? Why might you do want to do this?
 - Show your most recent pinwheel block. What do the different inputs (or argumnets) control?
