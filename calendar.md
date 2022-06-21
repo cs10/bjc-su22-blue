@@ -13,7 +13,7 @@
       <td rowspan = "7">6/20</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td>Welcome Session in 380 Soda</td>
-      <td rowspan = "7"></td>
+      <td rowspan = "7"><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vTl1mv4sRvxe7nKJC-c5QLfScxSku7EXXDdkJ6S3k7-dhsdfGapniRGlcipVd_99cnpc9Slvb39mESV/pub">Wordmatch Game</a></td>
       <td rowspan = "7"><a href="https://forms.gle/HjuWUq9tZGh1c5de8">Day 1 Reflection</a></td>
     </tr>
     <tr>
