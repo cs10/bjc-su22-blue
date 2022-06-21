@@ -13,7 +13,7 @@
       <td>Welcome Session in 380 Soda</td>
     </tr>
     <tr>
-      <td>Coding Exercise</td>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRbp8hpJkSWe7-FpmNcia2FGLCZFpitCkcwd5pK0WkSQzjBX5APQU4ZyYVBVRBRXfccFXDfjMAZVd4s/pub">Coding Exercise</a><a href="https://forms.gle/9Uf1f9cwTjHMivUC7"> (Submission Link)</a></td>
     </tr>
     <tr>
       <td rowspan = "3">Block 2: 1:30-3:30PM</td>
