@@ -4,6 +4,7 @@
       <th>Date</th>
       <th>Block</th>
       <th>Class Content</th>
+      <th>Resources/Links</th>
     </tr>
   </thead>
   <tbody class="js-scheduleContent">
@@ -11,6 +12,7 @@
       <td rowspan = "6">6/20</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td>Welcome Session in 380 Soda</td>
+      <td rowspan = "6"><a href="https://forms.gle/HjuWUq9tZGh1c5de8">Day 1 Reflection</a></td>
     </tr>
     <tr>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRbp8hpJkSWe7-FpmNcia2FGLCZFpitCkcwd5pK0WkSQzjBX5APQU4ZyYVBVRBRXfccFXDfjMAZVd4s/pub">Coding Exercise</a><a href="https://forms.gle/9Uf1f9cwTjHMivUC7"> (Submission Link)</a></td>
