@@ -19,3 +19,8 @@ UC Berkeley, Summer 2022
 ## Course Calendar
 
 {% include_relative calendar.md %}
+
+## Contact Information
+You may contact us at 20sgtaylor (at) berkeley.edu (Sarah) and emansishah (at) berkeley.edu (Mansi).
+
+Please ensure you email *both of us* together if you contact us and follow all of the Pre-College program policies regarding emailing staff.
