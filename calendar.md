@@ -4,6 +4,7 @@
       <th>Date</th>
       <th>Block</th>
       <th>Class Content</th>
+      <th>Extra Practice</th>
       <th>Resources/Links</th>
     </tr>
   </thead>
@@ -12,6 +13,7 @@
       <td rowspan = "7">6/20</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td>Welcome Session in 380 Soda</td>
+      <td rowspan = "7"></td>
       <td rowspan = "7"><a href="https://forms.gle/HjuWUq9tZGh1c5de8">Day 1 Reflection</a></td>
     </tr>
     <tr>
@@ -34,6 +36,24 @@
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 3: Modern Art with Polygons</a><br/>(only complete through Page 6)</td>
+    </tr>
+    <tr>
+      <td rowspan = "4">6/21</td>
+      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td>Course Norms</td>
+      <td rowspan = "4"></td>
+      <td rowspan = "4"></td>
+    </tr>
+    <tr>
+      <td>Snap&#33; Scavenger Hunt</td>
+    </tr>
+    <tr>
+      <td>Block 2: 1:30-3:30PM</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab 4: Lists and Higher Order Functions</a></td>
+    </tr>
+    <tr>
+      <td>Block 3: 4:00-5:30PM</td>
+      <td>Domain and Range Discussion</td>
     </tr>
   </tbody>
 </table>
