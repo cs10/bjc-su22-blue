@@ -55,5 +55,12 @@
       <td>Block 3: 4:00-5:30PM</td>
       <td>Domain and Range Discussion</td>
     </tr>
+    <tr>
+      <td>6/22</td>
+      <td>Block 1: 9:30-11:30AM</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=bjc-r/topic/berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab 5: Tic-Tac-Toe</a></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
