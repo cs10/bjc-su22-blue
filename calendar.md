@@ -45,7 +45,7 @@
       <td rowspan = "4"></td>
     </tr>
     <tr>
-      <td>Snap&#33; Scavenger Hunt</td>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Snap&#33; Scavenger Hunt</a></td>
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
