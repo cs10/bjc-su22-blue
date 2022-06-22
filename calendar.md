@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lab 4: Lists and Higher Order Functions</a></td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lab 4: Lists and Higher Order Functions</a><br/>(You can skip the section on "List Mutation")</td>
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
