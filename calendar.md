@@ -53,7 +53,7 @@
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
-      <td>Domain and Range Discussion</td>
+      <td><a href="https://docs.google.com/presentation/d/1DcPKgc2Oqn37eUy9epi8jAnNTcR6XnYSlABalvROFf8/edit?usp=sharing">Domain and Range Discussion</a></td>
     </tr>
     <tr>
       <td>6/22</td>
