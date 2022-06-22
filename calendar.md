@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab 4: Lists and Higher Order Functions</a></td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lab 4: Lists and Higher Order Functions</a></td>
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
@@ -58,7 +58,7 @@
     <tr>
       <td>6/22</td>
       <td>Block 1: 9:30-11:30AM</td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=bjc-r/topic/berkeley_bjc/lists/tic-tac-toe.topic&course=cs10_su19.html&novideo&noreading&noassignment">Lab 5: Tic-Tac-Toe</a></td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe-advanced.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lab 5: Tic-Tac-Toe</a></td>
       <td></td>
       <td></td>
     </tr>
