@@ -41,7 +41,7 @@
       <td rowspan = "4">6/21</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td>Course Norms</td>
-      <td rowspan = "4"></td>
+      <td rowspan = "4"><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vQZPEmxuF3-Adle4_JjemDpvlsMmtN2y-jkP_NhZCfyR7iIOUPUa8F4rrQIkz7jRzXUC400tYnKWM5V/pub">Mastermind (need to do Wordmatch first)</a></td>
       <td rowspan = "4"></td>
     </tr>
     <tr>
