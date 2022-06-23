@@ -62,5 +62,12 @@
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td rowspan = "2">Block 2: 1:30-3:30PM</td>
+      <td><a href="https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2F2048-testing%2F2048.topic&course&novideo&noreading&noassignment">Lab 6: Testing and 2048</a></td>
+    </tr>
+    <tr>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a></td>
+    </tr>
   </tbody>
 </table>
