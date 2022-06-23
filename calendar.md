@@ -42,7 +42,7 @@
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td>Course Norms</td>
       <td rowspan = "4"><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vQZPEmxuF3-Adle4_JjemDpvlsMmtN2y-jkP_NhZCfyR7iIOUPUa8F4rrQIkz7jRzXUC400tYnKWM5V/pub">Mastermind<br/>(need to do Wordmatch first)</a></td>
-      <td rowspan = "4"></td>
+      <td rowspan = "4"><a href="https://forms.gle/P7nDbu4WKEEbyHBX9">Reflection</a></td>
     </tr>
     <tr>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRNEOfcpEgIyjWxmMq-2nuLP999fEM_advfFTtcAl1lRaKDX8Yc72NoO5zAZweuOaVy8LIS_R_RvrxD/pub">Snap&#33; Scavenger Hunt</a></td>
