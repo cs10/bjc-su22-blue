@@ -10,7 +10,7 @@
   </thead>
   <tbody class="js-scheduleContent">
     <tr>
-      <td rowspan = "7">6/20</td>
+      <td rowspan = "7">6/21</td>
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td>Welcome Session in 380 Soda</td>
       <td rowspan = "7"><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vTl1mv4sRvxe7nKJC-c5QLfScxSku7EXXDdkJ6S3k7-dhsdfGapniRGlcipVd_99cnpc9Slvb39mESV/pub">Wordmatch Game</a></td>
@@ -38,7 +38,7 @@
       <td><a href="https://bjc.edc.org/bjc-r/cur/programming/1-introduction/3-drawing/1-exploring-motion.html?topic=nyc_bjc%2F1-intro-loops.topic&course=bjc4nyc.html&novideo&noassignment">Intro Lab 3: Modern Art with Polygons</a><br/>(only complete through Page 6)</td>
     </tr>
     <tr>
-      <td rowspan = "4">6/21</td>
+      <td rowspan = "4">6/22</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td>Course Norms</td>
       <td rowspan = "4"><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vQZPEmxuF3-Adle4_JjemDpvlsMmtN2y-jkP_NhZCfyR7iIOUPUa8F4rrQIkz7jRzXUC400tYnKWM5V/pub">Mastermind<br/>(need to do Wordmatch first)</a></td>
@@ -56,7 +56,7 @@
       <td><a href="https://docs.google.com/presentation/d/1DcPKgc2Oqn37eUy9epi8jAnNTcR6XnYSlABalvROFf8/edit?usp=sharing">Domain and Range Discussion</a></td>
     </tr>
     <tr>
-      <td rowspan = "4">6/22</td>
+      <td rowspan = "4">6/23</td>
       <td>Block 1: 9:30-11:30AM</td>
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe-advanced.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment">Lab 5: Tic-Tac-Toe</a></td>
       <td rowspan = "4"></td>
