@@ -70,6 +70,7 @@
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
     </tr>
     <tr>
+      <td>Block 3: 4:00-5:30PM</td>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
     </tr>
   </tbody>
