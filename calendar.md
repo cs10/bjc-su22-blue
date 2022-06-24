@@ -73,5 +73,23 @@
       <td>Block 3: 4:00-5:30PM</td>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
     </tr>
+    <tr>
+      <td rowspan = "4">6/24</td>
+      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td>Higher Order Functions Discussion</td>
+      <td rowspan = "4"></td>
+      <td rowspan = "4"></td>
+    </tr>
+    <tr>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
+    </tr>
+    <tr>
+      <td>Block 2: 1:30-3:30PM</td>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
+    </tr>
+    <tr>
+      <td>Block 3: 4:00-5:30PM</td>
+      <td>Social Implications Session</td>
+    </tr>
   </tbody>
 </table>
