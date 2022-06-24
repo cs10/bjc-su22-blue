@@ -78,7 +78,7 @@
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td><a href="https://docs.google.com/presentation/d/1KFJpBm-oKS52rOkrNMrs0Bx0nup6XtscKPiG1TwImOY/edit?usp=sharing">Higher Order Functions Discussion</a></td>
       <td rowspan = "4"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Lab: Boards</a><br/>(Helpful for final project)</td>
-      <td rowspan = "4"></td>
+      <td rowspan = "4"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6zv2_5i4yxqBoDg789YDmB5rKIrJcCy_UBMMmlHFqC_XyFA/viewform">Day 4 Reflection</a></td>
     </tr>
     <tr>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vT_BHZY_m0I5foF4xhzkq4VOOGLX8oCjprXZmSxlw1Xvd49nfTT28TXtVwqubsacFZadSD1hfjWLRjm/pub">Project 1: 2048</a><br/>(Do after finishing Lab 6)</td>
