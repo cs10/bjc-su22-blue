@@ -77,7 +77,7 @@
       <td rowspan = "4">6/24</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td><a href="https://docs.google.com/presentation/d/1KFJpBm-oKS52rOkrNMrs0Bx0nup6XtscKPiG1TwImOY/edit?usp=sharing">Higher Order Functions Discussion</a></td>
-      <td rowspan = "4"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Lab: Boards</a></td>
+      <td rowspan = "4"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic&course=&novideo&noreading&noassignment">Lab: Boards</a></br>(Helpful for final project)</td>
       <td rowspan = "4"></td>
     </tr>
     <tr>
