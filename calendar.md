@@ -76,7 +76,7 @@
     <tr>
       <td rowspan = "4">6/24</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
-      <td>Higher Order Functions Discussion</td>
+      <td><a href="https://docs.google.com/presentation/d/1KFJpBm-oKS52rOkrNMrs0Bx0nup6XtscKPiG1TwImOY/edit?usp=sharing">Higher Order Functions Discussion</a></td>
       <td rowspan = "4"></td>
       <td rowspan = "4"></td>
     </tr>
