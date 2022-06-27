@@ -91,5 +91,19 @@
       <td>Block 3: 4:00-5:30PM</td>
       <td>Social Implications Session</td>
     </tr>
+    <tr>
+      <td rowspan = "3">6/27</td>
+      <td rowspan = "2">Block 1: 9:30-11:30AM</td>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit?usp=sharing">Final Project Introduced</a></td>
+      <td rowspan = "3"></td>
+      <td rowspan = "3"></td>
+    </tr>
+    <tr>
+      <td>Introduction to Recursion</td>
+    </tr>
+    <tr>
+      <td>Block 2: 1:30-3:30PM</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Lab 7: Trees and Fractals using Recursion</a></td>
+    </tr>
   </tbody>
 </table>
