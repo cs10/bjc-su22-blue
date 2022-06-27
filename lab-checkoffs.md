@@ -59,6 +59,29 @@ check your understanding.
 - Show us your `expand` block.
 - What is the difference between the `for each (item)` loop and the `for (i)` loop we have used in previous labs?
 
+**Lab 5**{: .label .label-lab}[Tic-Tac-Toe](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe-advanced.topic&course=bjc-su22-blue.html&novideo&noreading&noassignment)
+- Show us your winning triple block.
+- How did you program the computer strategy? Show us your "next move" block.
+
+**Lab 6**{: .label .label-lab}[Testing and 2048](https://cs10.org/bjc-r/llab/html/topic.html?topic=berkeley_bjc%2F2048-testing%2F2048.topic&course&novideo&noreading&noassignment)
+- How does the test block work? What is its domain/range?
+- Show us the output of your test block on merge column. Explain why this output makes sense, and how the test block is checking this block.
+- How will writing tests help you for the 2048 assignment?
+- How do merge up and merge column work? What are the domain/range of each block?
+
+**Lab 7**{: .label .label-lab}[Trees and Fractals Using Recursion](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment)
+- Please show me your “crazy-tree” block.
+- Why is it important that the inputs to a recursive call be smaller than the original inputs to the function?
+- Why is it important that the sprite face the same direction at the end of a recursive function as it faced initially?
+- What defines a recursive block? What are the two necessary “cases” that a recursive block must consider? Name and define them.
+- Please show me your “snowflake” block.
+
+**Lab 8**{: .label .label-lab}[Recursive Reporters](https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment)
+- Why do we map the first item of the set in front of a recursive call of subsets _ over the rest of the list?
+- Explain why the second version of subsets _ only makes 7 calls instead of 64.
+- Explain how the sort _ block works, how the merge _ block works, and how they work together.
+- Show us the recursive numbers _ block.
+- Show us the recursive ends-e _ block.
 
 <!-- 
 **Lab 12**{: .label .label-lab }[Welcome to Python!](https://beautyjoy.github.io/bjc-r/topic/topic.html?topic=berkeley_bjc/python/besides-blocks-welcome-parsons.topic&course=cs10_fa21.html&novideo&noreading&noassignment)
