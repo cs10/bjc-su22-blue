@@ -94,7 +94,7 @@
     <tr>
       <td rowspan = "3">6/27</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
-      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/1De6Tnnwp8dNAuDKJDPnDJpg9DPTAMwv0_f6y4zzcdrs/edit?usp=sharing">Final Project Introduced</a></td>
+      <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Final Project Introduced</a></td>
       <td rowspan = "3"></td>
       <td rowspan = "3"></td>
     </tr>
