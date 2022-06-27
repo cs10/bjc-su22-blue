@@ -111,5 +111,6 @@
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
       <td>Practice with Recursion</td>
+    </tr>
   </tbody>
 </table>
