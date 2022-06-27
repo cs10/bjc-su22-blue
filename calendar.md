@@ -95,7 +95,7 @@
       <td rowspan = "4">6/27</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Final Project Introduced</a></td>
-      <td rowspan = "4"><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-with-recursion.topic&course=cs10_sp17.html&novideo&noreading&noassignment">Recursion with Higher Order Functions</a></td>
+      <td rowspan = "4"></td>
       <td rowspan = "4"></td>
     </tr>
     <tr>
