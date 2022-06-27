@@ -92,18 +92,22 @@
       <td>Social Implications Session</td>
     </tr>
     <tr>
-      <td rowspan = "3">6/27</td>
+      <td rowspan = "4">6/27</td>
       <td rowspan = "2">Block 1: 9:30-11:30AM</td>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Final Project Introduced</a></td>
-      <td rowspan = "3"></td>
-      <td rowspan = "3"></td>
+      <td rowspan = "4"></td>
+      <td rowspan = "4"></td>
     </tr>
     <tr>
-      <td>Introduction to Recursion</td>
+      <td><a href="https://docs.google.com/presentation/d/10qyj8zTqohEzmQ_lXQa1wSB8NodJin8bUSTErC-90Q4/edit?usp=sharing">Introduction to Recursion</a></td>
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic&course=&novideo&noreading&noassignment">Lab 7: Trees and Fractals using Recursion</a></td>
+    </tr>
+    <tr>
+      <td>Block 3: 4:00-5:30PM</td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters-part1.topic&course=&novideo&noreading&noassignment">Lab 8: Recursive Reporters</a></td>
     </tr>
   </tbody>
 </table>
