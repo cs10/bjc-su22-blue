@@ -121,7 +121,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td>Introduction to Tree Recursion</td>
+      <td><a href="https://docs.google.com/presentation/d/1JMkJJsPRxBFIaySo8pDZwNSkNNVQqIbFEUKZjXrofBE/edit?usp=sharing">Introduction to Tree Recursion</a></td>
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
@@ -130,7 +130,7 @@
     <tr>
       <td rowspan = "3">6/29</td>
       <td>Block 1: 9:30-11:30AM</td>
-      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-with-recursion.topic&course=cs10_sp17.html&novideo&noreading&noassignment">Lab: Recursion with Higher Order Functions</a></td>
+      <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-with-recursion.topic&course=cs10_sp17.html&novideo&noreading&noassignment">Lab 9: Recursion with Higher Order Functions</a></td>
       <td rowspan = "3"></td>
       <td rowspan = "3"></td>
     </tr>
