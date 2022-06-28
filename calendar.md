@@ -106,7 +106,7 @@
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
-      <td>Practice with Recursion</td>
+      <td><a href="https://docs.google.com/presentation/d/1qH2H54Ek7xwVYp8s_yYYo2GEeMv5TaMKhqmrq7xd9h0/edit?usp=sharing">Practice with Recursion</a></td>
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
@@ -115,7 +115,7 @@
     <tr>
       <td rowspan = "3">6/28</td>
       <td>Block 1: 9:30-11:30AM</td>
-      <td>Fractal Competition</td>
+      <td>Fractal Competition<br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSfdEtSyUvIabWn1jfGN0kYJXV50x-_SR96MkuGRcAcbEAEidw/viewform">Submission Link</a></td>
       <td rowspan = "3"></td>
       <td rowspan = "3"></td>
     </tr>
