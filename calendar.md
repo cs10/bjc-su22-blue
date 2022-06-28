@@ -115,7 +115,7 @@
     <tr>
       <td rowspan = "3">6/28</td>
       <td>Block 1: 9:30-11:30AM</td>
-      <td>Fractal Competition<br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSfdEtSyUvIabWn1jfGN0kYJXV50x-_SR96MkuGRcAcbEAEidw/viewform">Submission Link</a></td>
+      <td>Fractal Competition<br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSfdEtSyUvIabWn1jfGN0kYJXV50x-_SR96MkuGRcAcbEAEidw/viewform">Submission Link</a><br/><a href="https://docs.google.com/forms/d/e/1FAIpQLSfHfQUVn-sFvuhnk9dhZpWHePZdEPnCeDIK9cDD-4eaNGBKvg/viewform">Voting Form</a></td>
       <td rowspan = "3"></td>
       <td rowspan = "3"></td>
     </tr>
