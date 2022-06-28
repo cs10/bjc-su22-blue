@@ -132,7 +132,7 @@
       <td>Block 1: 9:30-11:30AM</td>
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-with-recursion.topic&course=cs10_sp17.html&novideo&noreading&noassignment">Lab 9: Recursion with Higher Order Functions</a></td>
       <td rowspan = "3"></td>
-      <td rowspan = "3"></td>
+      <td rowspan = "3"><a href="https://docs.google.com/forms/d/e/1FAIpQLScONnXef9HmOCrhVwVEGWq3bUjaJrjk2ylBROJn-NBBCC5O5w/viewform">Day 6 Reflection</td>
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
