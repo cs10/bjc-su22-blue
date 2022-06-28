@@ -96,7 +96,7 @@
       <td rowspan = "3">Block 1: 9:30-11:30AM</td>
       <td><a href="/bjc-su22-blue/assignment?https://docs.google.com/document/d/e/2PACX-1vRJZKE0zt53evUr8z6-IN12UjmvsgZ_Xsd1VOOHFPj_mw1UIe_6xXyjOc9AdvHf15xkrvXWZn8xtgSN/pub">Final Project Introduced</a></td>
       <td rowspan = "5"></td>
-      <td rowspan = "5"></td>
+      <td rowspan = "5"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfvklw7d3u9uIvM3o4zLsC07nXWyyDYMJx4GSw1aJdxYe3-KA/viewform">Day 5 Reflection</a></td>
     </tr>
     <tr>
       <td><a href="https://docs.google.com/presentation/d/10qyj8zTqohEzmQ_lXQa1wSB8NodJin8bUSTErC-90Q4/edit?usp=sharing">Introduction to Recursion</a></td>
