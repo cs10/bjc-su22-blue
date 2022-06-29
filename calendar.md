@@ -128,11 +128,11 @@
       <td>Social Implications Session</td>
     </tr>
     <tr>
-      <td rowspan = "3">6/29</td>
+      <td rowspan = "4">6/29</td>
       <td>Block 1: 9:30-11:30AM</td>
       <td><a href="https://cs10.org/bjc-r/topic/topic.html?topic=berkeley_bjc/hofs/hofs-with-recursion.topic&course=cs10_sp17.html&novideo&noreading&noassignment">Lab 9: Recursion with Higher Order Functions</a></td>
-      <td rowspan = "3"></td>
-      <td rowspan = "3"></td>
+      <td rowspan = "4"></td>
+      <td rowspan = "4"></td>
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
@@ -141,6 +141,10 @@
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
       <td>Final Project Work Session</td>
+    </tr>
+    <tr>
+      <td>7:00-9:00PM</td>
+      <td>(Optional) Hackathon in 380 Soda</td>
     </tr>
     <tr>
       <td rowspan = "3">6/30</td>
