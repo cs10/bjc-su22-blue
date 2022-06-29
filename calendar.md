@@ -159,7 +159,7 @@
     </tr>
     <tr>
       <td>Block 3: 4:00-5:30PM</td>
-      <td>Final Project Demos</td>
+      <td>Final Project Demos<br/><a href="https://berkeley.zoom.us/j/99556058541?pwd=aXcxMEh5TG9TblJ6YVpxVHFERThDQT09">Zoom Link</a></td>
     </tr>
   </tbody>
 </table>
