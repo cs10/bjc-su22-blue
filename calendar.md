@@ -151,7 +151,7 @@
       <td>Block 1: 9:30-11:30AM</td>
       <td>Final Project Work Session</td>
       <td rowspan = "3"></td>
-      <td rowspan = "3"></td>
+      <td rowspan = "3"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfzfTSRF9pNlc_QNb4UUFi5m0F6KXuvekfd1VqnMo2nuwVtVw/viewform">Final Project Submission Form </a></td>
     </tr>
     <tr>
       <td>Block 2: 1:30-3:30PM</td>
